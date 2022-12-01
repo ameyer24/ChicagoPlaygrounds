@@ -1,0 +1,522 @@
+schema:longitude,schema:latitude,schema:address,schema:name,schema:identifier,schema:addressLocality,schema:name...18,schema:containedInPlace,schema:name...17
+-87.6213513289056,41.72095968735346,"49 E 95th St Chicago, IL 60628",Abbott Park - Playground,Chicago_Park_Facility_9,1870,Ward 9,2063,Abbott Park
+-87.65519740258068,41.689050058488874,"11250 S Ada St Chicago, IL 60643",Ada Park - Playground,Chicago_Park_Facility_27,1859,Ward 34,1938,Ada Park
+-87.65509193686333,41.9168896589441,"1919 N Seminary Ave Chicago, IL 60614",Adams (George & Adele) Park - Playground,Chicago_Park_Facility_35,1898,Ward 43,2327,Adams (George & Adele) Park
+-87.77635632136997,41.91915087341189,"2133 N Mcvicker Ave Chicago, IL 60639",Aiello Park - Playground Park,Chicago_Park_Facility_37,1892,Ward 36,2496,Aiello Park
+-87.69491846558707,41.93520242499389,"2941 N Washtenaw Ave Chicago, IL 60618",Algonquin Park - Playground Park,Chicago_Park_Facility_38,1858,Ward 33,2439,Algonquin Park
+-87.69331479977535,41.874695485607106,"515 S Washtenaw Ave Chicago, IL 60612",Altgeld Park - Playground,Chicago_Park_Facility_46,1896,Ward 28,2018,Altgeld Park
+-87.7795473584138,41.91341152538692,"6200 W Bloomingdale Ave Chicago, IL 60639",Amundsen Park - Playground,Chicago_Park_Facility_54,1897,Ward 29,1984,Amundsen Park
+-87.62064020152745,41.82591273944526,"3748 S Prairie Ave Chicago, IL 60653",Anderson (Louis) Park - Playground,Chicago_Park_Facility_60,1861,Ward 3,2328,Anderson (Louis) Park
+-87.66928219895237,41.97714903975003,"5233 N Ashland Ave Chicago, IL 60640",Andersonville Park - Playground Park,Chicago_Park_Facility_62,1906,Ward 40,2381,Andersonville Park
+-87.73423123561952,41.80360872979382,"4901 S Kilbourn Ave Chicago, IL 60632",Archer Park - Playground,Chicago_Park_Facility_73,1890,Ward 14,2056,Archer Park
+-87.63399439921082,41.83430367585213,"3309 S Shields Ave Chicago, IL 60616",Armour Square Park - Playground,Chicago_Park_Facility_86,1881,Ward 11,1909,Armour Square Park
+-87.60971037866166,41.81377579878813,"4433 S St Lawrence Chicago, IL 60653",Armstrong Park - Playground,Chicago_Park_Facility_98,1861,Ward 3,2230,Armstrong Park
+-87.55781280453436,41.762574208930275,"2701 E 74th St Chicago, IL 60649",Ashe Beach Park - Playground,Chicago_Park_Facility_101,1883,Ward 7,2209,Ashe Beach Park
+-87.74818672442976,41.96866399458474,"4807 W Gunnison St Chicago, IL 60630",Ashmore Park - Playground Park,Chicago_Park_Facility_104,1886,Ward 45,2185,Ashmore Park
+-87.62418441223066,41.81712721012,"4237 S Wabash Ave Chicago, IL 60653",Aspen Park - Playground Park,Chicago_Park_Facility_105,1861,Ward 3,2104,Aspen Park
+-87.6558505712144,41.96661706817936,"4639 N Kenmore Ave Chicago, IL 60640",Aster Park - Playground Park,Chicago_Park_Facility_106,1860,Ward 46,2122,Aster Park
+-87.71669434787789,41.946949193789465,"3546 W Addison St Chicago, IL 60618",Athletic Field Park - Playground,Chicago_Park_Facility_111,1903,Ward 35,1953,Athletic Field Park
+-87.73762548832646,41.89855905486072,"4431 W Augusta Blvd Chicago, IL 60651",Augusta Park - Playground,Chicago_Park_Facility_114,1900,Ward 37,2329,Augusta Park
+-87.77243428887259,41.887703703208004,"5951 W Lake St Chicago, IL 60644",Austin Park - Playground,Chicago_Park_Facility_115,1897,Ward 29,2448,Austin Park
+-87.7789692819086,41.97586537105549,"6020 W Foster Ave Chicago, IL 60630",Austin Foster Park - Playground,Chicago_Park_Facility_120,1886,Ward 45,2084,Austin Foster Park
+-87.76550918818896,41.88844405716301,"5610 W Lake St Chicago, IL 60644",Austin Town Hall Park - Playground,Chicago_Park_Facility_125,1897,Ward 29,2019,Austin Town Hall Park
+-87.59485912973466,41.7430071459661,"1215 E 83rd St Chicago, IL 60619",Avalon Park - Playground,Chicago_Park_Facility_138,1907,Ward 8,1932,Avalon Park
+-87.71545552296591,41.94152584661252,"3516 W School St Chicago, IL 60618",Avondale Park - Playground,Chicago_Park_Facility_152,1903,Ward 35,1954,Avondale Park
+-87.65836042500631,41.80440731876223,"4920 S Throop St Chicago, IL 60609",Back of the Yards Park - Playground,Chicago_Park_Facility_156,1884,Ward 20,2368,Back of the Yards Park
+-87.68115405865106,41.84714641404515,"2440 S Leavitt St Chicago, IL 60608",Baraga Park - Playground Park,Chicago_Park_Facility_159,1873,Ward 25,2094,Baraga Park
+-87.66985319296113,41.703453114891595,"10441 S Longwood Dr Chicago, IL 60643",Barnard Park - Playground,Chicago_Park_Facility_160,1885,Ward 19,2449,Barnard Park
+-87.67650734388515,41.85234408085846,"2022 W Cermak Rd Chicago, IL 60608",Barrett Park - Playground,Chicago_Park_Facility_162,1873,Ward 25,2330,Barrett Park
+-87.6498967254965,41.879862500237586,"115 S. Sangamon St Chicago, IL 60602",Bartelme Park - Playground,Chicago_Park_Facility_163,1873,Ward 25,2276,Bartelme Park
+-87.64155497141718,41.916241630779666,"517 W Wisconsin St Chicago, IL 60614",Bauler Park - Playground,Chicago_Park_Facility_165,1898,Ward 43,2137,Bauler Park
+-87.59168559599495,41.78255560469834,"6156 S Dorchester Ave Chicago, IL 60637",Beehive Park - Playground Park,Chicago_Park_Facility_166,1884,Ward 20,2110,Beehive Park
+-87.72354098888209,41.912424907691566,"1725 N Springfield Ave Chicago, IL 60647",Beilfuss Park - Playground,Chicago_Park_Facility_168,1867,Ward 26,2313,Beilfuss Park
+-87.79641177401126,41.93510806084886,"3020 N Oak Park Ave Chicago, IL 60634",Bell Park - Playground,Chicago_Park_Facility_172,1892,Ward 36,1976,Bell Park
+-87.65495184760344,41.99552006980866,"6227 N Sheridan Rd Chicago, IL 60660",Berger Park - Playground,Chicago_Park_Facility_179,1872,Ward 48,2477,Berger Park
+-87.55616100071903,41.73235612855701,"8930 S Muskegon Ave Chicago, IL 60617",Bessemer Park - Playground,Chicago_Park_Facility_192,1883,Ward 7,1918,Bessemer Park
+-87.68502994387259,41.70960134330838,"2460 W 102nd St Chicago, IL 60655",Beverly Park - Playground,Chicago_Park_Facility_206,1885,Ward 19,2058,Beverly Park
+-87.6152468993795,41.81283360010693,"427 E 45th St Chicago, IL 60653",Birch Park - Playground Park,Chicago_Park_Facility_215,1861,Ward 3,2105,Birch Park
+-87.59291698250061,41.79191236092487,"5641 S Kenwood Ave Chicago, IL 60637",Bixler Park - Playground Park,Chicago_Park_Facility_216,1866,Ward 5,2384,Bixler Park
+-87.75178757311681,41.923168956634306,"2318 N Lavergne Ave Chicago, IL 60639",Blackhawk Park - Playground,Chicago_Park_Facility_225,1892,Ward 36,1977,Blackhawk Park
+-87.67109004335045,41.68443019223897,"1800 W 115th St Chicago, IL 60643",Blackwelder Park - Playground,Chicago_Park_Facility_235,1859,Ward 34,2143,Blackwelder Park
+-87.71968328753205,41.745588633995325,"3939 W 79th St Chicago, IL 60652",Bogan Park - Playground,Chicago_Park_Facility_244,1875,Ward 18,2068,Bogan Park
+-87.71770211531354,41.8700062722125,"3601 W Arthington St Chicago, IL 60624",Boler Park - Playground,Chicago_Park_Facility_249,1864,Ward 24,2233,Boler Park
+-87.65341768190588,41.838623472600084,"3044 S Bonfield St Chicago, IL 60608",Bosley Park - Playground,Chicago_Park_Facility_254,1881,Ward 11,2331,Bosley Park
+-87.59879935449628,41.773747066966436,"6646 S University Ave Chicago, IL 60637",Boswell Park - Playground Park,Chicago_Park_Facility_256,1866,Ward 5,2121,Boswell Park
+-87.56431291697673,41.71824601803285,"9729 S Yates Ave Chicago, IL 60617",Bradley Park - Playground,Chicago_Park_Facility_261,1891,Ward 10,2314,Bradley Park
+-87.65523656398388,41.72771377034492,"1246 W 92nd St Chicago, IL 60620",Brainerd Park - Playground,Chicago_Park_Facility_271,1878,Ward 21,2004,Brainerd Park
+-87.70018998434615,41.94095804299821,"3285 N Elston Ave Chicago, IL 60618",Brands Park - Playground,Chicago_Park_Facility_283,1858,Ward 33,2009,Brands Park
+-87.69818844595399,41.82922854382837,"3501 S Richmond St Chicago, IL 60632",Brighton Park - Playground,Chicago_Park_Facility_288,1871,Ward 12,2184,Brighton Park
+-87.660379734871,41.98011856409288,"5400 N Broadway Chicago, IL 60640",Bromann Park - Playground Park,Chicago_Park_Facility_292,1872,Ward 48,2193,Bromann Park
+-87.66061892387992,41.96289762403686,"4437 N Magnolia Ave Chicago, IL 60640",Broncho Billy Park - Playground,Chicago_Park_Facility_294,1860,Ward 46,2227,Broncho Billy Park
+-87.59996872263955,41.812075041221775,"4542 S Greenwood Ave Chicago, IL 60653",Brooks (Gwendolyn) Park - Playground,Chicago_Park_Facility_296,1882,Ward 4,2134,Brooks (Gwendolyn) Park
+-87.80733302726635,42.009584878676336,"7046 N Harlem Ave Chicago, IL 60631",Brooks (Oscar) Park - Playground,Chicago_Park_Facility_304,1865,Ward 41,1947,Brooks (Oscar) Park
+-87.6088900479562,41.74001613865705,"644 E 86th St Chicago, IL 60619",Brown Memorial Park - Playground,Chicago_Park_Facility_311,1902,Ward 6,2088,Brown Memorial Park
+-87.72886854698996,41.98399953550289,"5640 N Pulaski Rd Chicago, IL 60646",Brynford Park - Playground Park,Chicago_Park_Facility_315,1899,Ward 39,2428,Brynford Park
+-87.65662236329518,41.958406499441274,"1049  W Buena Chicago, IL 60613",Buena Circle Park - Playground Park,Chicago_Park_Facility_318,1860,Ward 46,2385,Buena Circle Park
+-87.61473674461963,41.86464384427293,"425 E Mcfetridge Dr Chicago, IL 60616",Burnham Park - Playground 1,Chicago_Park_Facility_327,NA,NA,1931,Burnham Park
+-87.60654778307405,41.83767172587917,"425 E Mcfetridge Dr Chicago, IL 60616",Burnham Park - Playground 2,Chicago_Park_Facility_328,NA,NA,1931,Burnham Park
+-87.5943682478198,41.816991625423924,"425 E Mcfetridge Dr Chicago, IL 60616",Burnham Park - Playground 3,Chicago_Park_Facility_329,NA,NA,1931,Burnham Park
+-87.58950019169748,41.80982259705209,"425 E Mcfetridge Dr Chicago, IL 60616",Burnham Park - Playground 4,Chicago_Park_Facility_330,NA,NA,1931,Burnham Park
+-87.58027899602317,41.796846909599736,"425 E Mcfetridge Dr Chicago, IL 60616",Burnham Park - Playground 5,Chicago_Park_Facility_331,NA,NA,1931,Burnham Park
+-87.59766450815766,41.72480144968483,"9400 S Greenwood Ave Chicago, IL 60619",Burnside Park - Playground,Chicago_Park_Facility_337,1907,Ward 8,2135,Burnside Park
+-87.65442542307936,41.971883217960446,"4913 N Sheridan Rd Chicago, IL 60640",Buttercup Park - Playground,Chicago_Park_Facility_339,1872,Ward 48,2150,Buttercup Park
+-87.59712202574089,41.79860996087562,"5324 S Woodlawn Ave Chicago, IL 60615",Butternut Park - Playground Park,Chicago_Park_Facility_340,1866,Ward 5,2488,Butternut Park
+-87.69772065394037,41.95030660163343,"3843 N California Ave Chicago, IL 60618",California Park - Playground,Chicago_Park_Facility_346,1858,Ward 33,2011,California Park
+-87.53005028910864,41.71578135745325,"9801 S Avenue G Chicago, IL 60617",Calumet Park - Playground,Chicago_Park_Facility_371,1891,Ward 10,1917,Calumet Park
+-87.66095357039384,41.97490373122701,"1224 W Carmen Ave Chicago, IL 60640",Carmen Park - Playground Park,Chicago_Park_Facility_392,1874,Ward 47,2386,Carmen Park
+-87.6505429889059,41.781677862427,"6155 S Carpenter St Chicago, IL 60621",Carpenter Park - Playground Park,Chicago_Park_Facility_393,1901,Ward 16,2387,Carpenter Park
+-87.6000057829764,41.65533447340861,"939 E 132nd St Chicago, IL 60627",Carver Park - Playground 1,Chicago_Park_Facility_402,1870,Ward 9,2059,Carver Park
+-87.59713931817689,41.65344039063941,"939 E 132nd St Chicago, IL 60627",Carver Park - Playground 2,Chicago_Park_Facility_403,1870,Ward 9,2059,Carver Park
+-87.7279433019105,41.81426121504168,"4330 S Kedvale Ave Chicago, IL 60632",Catalpa Park - Playground Park,Chicago_Park_Facility_407,1890,Ward 14,2142,Catalpa Park
+-87.65732881266166,41.97866237514146,"5315 N Winthrop Ave Chicago, IL 60640",Cedar Park - Playground Park,Chicago_Park_Facility_409,1872,Ward 48,2495,Cedar Park
+-87.71589865030349,41.894401042906686,"721 N Central Park Ave Chicago, IL 60624",Central Park - Playground Park,Chicago_Park_Facility_411,1905,Ward 27,2388,Central Park
+-87.66895122866202,41.96727104939563,"4725 N Ashland Av Chicago, IL 60640",Chase Park - Playground,Chicago_Park_Facility_419,1874,Ward 47,1966,Chase Park
+-87.589143269447,41.767630039410136,"7005 S Dante Ave Chicago, IL 60637",Chestnut Park - Playground Park,Chicago_Park_Facility_426,1866,Ward 5,2491,Chestnut Park
+-87.62192689525575,41.857659171201725,"1801 S Indiana Ave Chicago, IL 60616",Chicago Women's Park - Playground,Chicago_Park_Facility_19574,1861,Ward 3,2283,Chicago Women's Park
+-87.70517861491815,42.00448458230592,"6758 N Sacramento Ave Chicago, IL 60645",Chippewa Park - Playground,Chicago_Park_Facility_430,1889,Ward 50,2000,Chippewa Park
+-87.76241220238342,41.9427999877665,"3420 N Long Ave Chicago, IL 60641",Chopin Park - Playground,Chicago_Park_Facility_438,1895,Ward 30,1991,Chopin Park
+-87.70882583826445,41.85980419229675,"1533 S Christiana Ave Chicago, IL 60623",Christiana Park - Playground Park,Chicago_Park_Facility_447,1864,Ward 24,2389,Christiana Park
+-87.685008490604,41.87326844143943,"2342 W Flournoy St Chicago, IL 60612",Claremont Park - Playground,Chicago_Park_Facility_450,1896,Ward 28,2165,Claremont Park
+-87.64969681924246,41.963078695785754,"4501 N Clarendon Ave Chicago, IL 60640",Clarendon Community Center Park - Playground,Chicago_Park_Facility_458,1860,Ward 46,2312,Clarendon Community Center Park
+-87.74062074676144,41.876667038783516,"4615 W Jackson Blvd Chicago, IL 60644",Clark (John) Park - Playground,Chicago_Park_Facility_467,1896,Ward 28,2333,Clark (John) Park
+-87.66350720430641,41.92215439451336,"2210 N Southport Ave Chicago, IL 60614",Clover Park - Playground Park,Chicago_Park_Facility_482,1894,Ward 2,2493,Clover Park
+-87.65237707613768,41.9132928172992,"1755 N Clybourn Ave Chicago, IL 60614",Clybourn Park - Playground Park,Chicago_Park_Facility_484,1894,Ward 2,2391,Clybourn Park
+-87.66173788310165,41.983394122065626,"5554 N Magnolia Ave Chicago, IL 60640",Cochran Park - Playground Park,Chicago_Park_Facility_485,1872,Ward 48,2178,Cochran Park
+-87.61595982469173,41.73969876928432,"361 E 85th St Chicago, IL 60619",Cole Park - Playground,Chicago_Park_Facility_491,1902,Ward 6,2073,Cole Park
+-87.6034332900749,41.79640400612626,"900 E 54th Pl Chicago, IL 60615",Coleman Park - Playground Park,Chicago_Park_Facility_493,1866,Ward 5,2091,Coleman Park
+-87.62627019957218,41.86205945499259,"1466 S Wabash Av Chicago, IL 60605",Coliseum Park - Playground,Chicago_Park_Facility_4535,1861,Ward 3,2243,Coliseum Park
+-87.76569463717519,41.87489819194545,"500 S Central Ave Chicago, IL 60644",Columbus Park - Playground 1,Chicago_Park_Facility_513,1897,Ward 29,2021,Columbus Park
+-87.76899146554601,41.87743045381142,"500 S Central Ave Chicago, IL 60644",Columbus Park - Playground 2,Chicago_Park_Facility_3192,1897,Ward 29,2021,Columbus Park
+-87.67387258165304,41.8965951979276,"1845 W Rice St Chicago, IL 60622",Commercial Club Park - Playground,Chicago_Park_Facility_526,1893,Ward 1,2316,Commercial Club Park
+-87.65503446394567,41.681002482670486,"1332 W 117th St Chicago, IL 60643",Cooper Park - Playground,Chicago_Park_Facility_531,1859,Ward 34,2086,Cooper Park
+-87.67019820046326,41.801935032370224,"1809 W 50th St Chicago, IL 60609",Cornell Square Park - Playground,Chicago_Park_Facility_543,1884,Ward 20,1911,Cornell Square Park
+-87.66813797090128,41.727321400078885,"2100 W 91st St Chicago, IL 60620",Cosme Park - Playground,Chicago_Park_Facility_549,1885,Ward 19,2003,Cosme Park
+-87.62922046400668,41.86210876123899,"44 W 15th St Chicago, IL 60616",Cotton Tail Park - Playground,Chicago_Park_Facility_553,1861,Ward 3,2221,Cotton Tail Park
+-87.75256015485853,41.883465218606354,"5058 W West End Ave Chicago, IL 60644",Cottonwood Park - Playground Park,Chicago_Park_Facility_554,1896,Ward 28,2175,Cottonwood Park
+-87.75849082891868,41.92843998108232,"2611 N Lockwood Ave Chicago, IL 60639",Cragin Park - Playground,Chicago_Park_Facility_558,1888,Ward 31,1986,Cragin Park
+-87.72770822677849,41.86009336220602,"1516 S Karlov Ave Chicago, IL 60623",Crawford Park - Playground Park,Chicago_Park_Facility_563,1864,Ward 24,2131,Crawford Park
+-87.67674604816578,41.697196902094575,"2230 W 108th Pl Chicago, IL 60643",Crescent Park - Playground,Chicago_Park_Facility_567,1885,Ward 19,1940,Crescent Park
+-87.66336608207916,41.99754917359876,"6340 N Lakewood Ave Chicago, IL 60660",D'Elia Park - Playground Park,Chicago_Park_Facility_614,1872,Ward 48,2155,D'Elia Park
+-87.66703065640263,41.8125871259276,"4430 S Marshfield Ave Chicago, IL 60609",Davis (Nathan) Square Park - Playground,Chicago_Park_Facility_590,1904,Ward 15,1920,Davis (Nathan) Square Park
+-87.76217299647432,41.90196876822522,"5427 W Division St Chicago, IL 60651",Davis (Margaret) Park - Playground Park,Chicago_Park_Facility_593,1900,Ward 37,2392,Davis (Margaret) Park
+-87.6736585812172,41.747200623692464,"8040 S Damen Av Chicago, IL 60620",Dawes Park - Playground,Chicago_Park_Facility_604,1875,Ward 18,2045,Dawes Park
+-87.70477833843785,41.91396566061534,"1805 N Albany Ave Chicago, IL 60647",De Burgos Park - Playground,Chicago_Park_Facility_2203,1893,Ward 1,2287,De Burgos Park
+-87.67068635958412,41.9067136646521,"1356 N Dean St Chicago, IL 60622",Dean Park - Playground,Chicago_Park_Facility_608,1893,Ward 1,2334,Dean Park
+-87.59655625457775,41.749749261908924,"1126 E 80th St Chicago, IL 60619",DeBow Park - Playground,Chicago_Park_Facility_611,1907,Ward 8,2169,DeBow Park
+-87.74949258899626,41.91111018799361,"4905 W Wabansia Ave Chicago, IL 60639",DeGeorge Park - Playground Park,Chicago_Park_Facility_612,1900,Ward 37,2393,DeGeorge Park
+-87.75365205978737,41.990843859683785,"6056 N Landers Ave Chicago, IL 60646",DeJulio Park - Playground Park,Chicago_Park_Facility_613,1899,Ward 39,2138,DeJulio Park
+-87.75174037812897,41.95544156180533,"4117 N Lavergne Ave Chicago, IL 60641",Dickinson Park - Playground,Chicago_Park_Facility_615,1886,Ward 45,2454,Dickinson Park
+-87.60184101914183,41.73268028389256,"8931 S Dauphin Ave Chicago, IL 60619",Dixon Park - Playground,Chicago_Park_Facility_617,1907,Ward 8,2453,Dixon Park
+-87.5989597644855,41.757815769792415,"7521 S Dobson Ave Chicago, IL 60619",Dobson Park - Playground Park,Chicago_Park_Facility_618,1907,Ward 8,2394,Dobson Park
+-87.69495164343633,41.871320500097646,"2734 W Polk St Chicago, IL 60612",Dogwood Park - Playground Park,Chicago_Park_Facility_619,1896,Ward 28,2123,Dogwood Park
+-87.6603843414838,41.94185651381505,"1230 W School St Chicago, IL 60657",Donahue Park - Playground,Chicago_Park_Facility_0,1868,Ward 44,2302,Donahue Park
+-87.64795138660473,41.82841205138589,"3620 S Lituanica Ave Chicago, IL 60609",Donovan Park - Playground,Chicago_Park_Facility_623,1881,Ward 11,2336,Donovan Park
+-87.70809618618276,41.75353727569749,"3426 W 77th St Chicago, IL 60652",Dooley Park - Playground,Chicago_Park_Facility_630,1875,Ward 18,2095,Dooley Park
+-87.69603094188825,41.85702464857244,"1401 S Sacramento Dr Chicago, IL 60623",Douglas Park - Playground 1,Chicago_Park_Facility_649,NA,NA,2030,Douglas Park
+-87.70223518919083,41.856193391671006,"1401 S Sacramento Dr Chicago, IL 60623",Douglas Park - Playground 2,Chicago_Park_Facility_650,NA,NA,2030,Douglas Park
+-87.69631862144897,41.86224726358847,"1401 S Sacramento Dr Chicago, IL 60623",Douglas Park - Playground 3,Chicago_Park_Facility_651,NA,NA,2030,Douglas Park
+-87.70245569336738,41.861737971322185,"1401 S Sacramento Dr Chicago, IL 60623",Douglas Park - Playground 4,Chicago_Park_Facility_652,NA,NA,2030,Douglas Park
+-87.69988559363006,41.866191003567145,"1401 S Sacramento Dr Chicago, IL 60623",Douglas Park - Playground 5,Chicago_Park_Facility_653,NA,NA,2030,Douglas Park
+-87.6732391551168,41.767381942554245,"6931 S Damen Ave Chicago, IL 60636",Drexel Park - Playground Park,Chicago_Park_Facility_662,1863,Ward 17,2197,Drexel Park
+-87.62126161305332,41.841809137663944,"200 E 31st St Chicago, IL 60616",Dunbar Park - Playground 1,Chicago_Park_Facility_669,1882,Ward 4,2071,Dunbar Park
+-87.62114525699519,41.838616828840074,"200 E 31st St Chicago, IL 60616",Dunbar Park - Playground 2,Chicago_Park_Facility_670,1882,Ward 4,2071,Dunbar Park
+-87.7824339088943,41.96628467329444,"4640 N Melvina Ave Chicago, IL 60630",Dunham Park - Playground,Chicago_Park_Facility_687,1877,Ward 38,2062,Dunham Park
+-87.72853068129905,41.74004296314831,"8441 S Kolin Ave Chicago, IL 60652",Durkin Park - Playground,Chicago_Park_Facility_698,1875,Ward 18,2072,Durkin Park
+-87.63964124817315,41.89858635875952,"421 W Locust St Chicago, IL 60610",Durso Park - Playground,Chicago_Park_Facility_704,1905,Ward 27,2343,Durso Park
+-87.65334478551864,41.8550617621825,"1119 W Cullerton St Chicago, IL 60608",Dvorak Park - Playground 1,Chicago_Park_Facility_711,1873,Ward 25,2028,Dvorak Park
+-87.65442662771466,41.85365621262902,"1119 W Cullerton St Chicago, IL 60608",Dvorak Park - Playground 2,Chicago_Park_Facility_712,1873,Ward 25,2028,Dvorak Park
+-87.56408484925045,41.74660437088141,"2430 E 82nd St Chicago, IL 60617",Eckersall Park - Playground,Chicago_Park_Facility_716,1883,Ward 7,2038,Eckersall Park
+-87.66064966072685,41.89642990083661,"1330 W Chicago Ave Chicago, IL 60622",Eckhart Park - Playground,Chicago_Park_Facility_724,1905,Ward 27,2020,Eckhart Park
+-87.7611401274678,42.00002727346889,"6525 N Hiawatha Ave Chicago, IL 60646",Edgebrook Park - Playground,Chicago_Park_Facility_15415,1865,Ward 41,2116,Edgebrook Park
+-87.8173198529543,42.00393684515723,"6755 N Northwest Hwy Chicago, IL 60631",Edison Park - Playground,Chicago_Park_Facility_735,1865,Ward 41,1948,Edison Park
+-87.64320933134773,41.78405217110147,"711 W 60th Pl Chicago, IL 60621",Edmonds Park - Playground Park,Chicago_Park_Facility_736,1901,Ward 16,2156,Edmonds Park
+-87.68376827227577,41.916336222713994,"2230 W Cortland St Chicago, IL 60647",Erhler Park - Playground,Chicago_Park_Facility_754,1887,Ward 32,2083,Erhler Park
+-87.61075366093452,41.82935139241031,"600 E 37th St Chicago, IL 60653",Ellis Park - Playground,Chicago_Park_Facility_744,1882,Ward 4,2456,Ellis Park
+-87.70617920938027,41.944425369857775,"3461 N Troy St Chicago, IL 60618",Elston Park - Playground Park,Chicago_Park_Facility_747,1858,Ward 33,2395,Elston Park
+-87.67637510153187,41.9945734059819,"1820 W Granville Ave Chicago, IL 60660",Emmerson Park - Playground,Chicago_Park_Facility_750,1906,Ward 40,1967,Emmerson Park
+-87.58998837303538,41.755121466399615,"7687 S South Chicago Ave Chicago, IL 60619",Essex Park - Playground Park,Chicago_Park_Facility_755,1866,Ward 5,2192,Essex Park
+-87.63735638680261,41.71636779800237,"9800 S Parnell Ave Chicago, IL 60628",Euclid Park - Playground,Chicago_Park_Facility_761,1859,Ward 34,1950,Euclid Park
+-87.6456918094203,41.939781930158574,"631 W Belmont Ave Chicago, IL 60657",Evergreen Park - Playground Park,Chicago_Park_Facility_765,1868,Ward 44,2492,Evergreen Park
+-87.67911212880851,41.93984055339295,"2012 W Belmont Ave Chicago, IL 60618",Fellger Park - Playground Park,Chicago_Park_Facility_767,1887,Ward 32,2397,Fellger Park
+-87.63931152773306,41.70441074004673,"10436 S Wallace St Chicago, IL 60628",Fernwood Park - Playground,Chicago_Park_Facility_775,1859,Ward 34,1949,Fernwood Park
+-87.72419449302505,41.97487833693598,"5100 N Ridgeway Ave Chicago, IL 60625",Field Park - Playground,Chicago_Park_Facility_785,1899,Ward 39,1936,Field Park
+-87.6750632638622,41.95351291208382,"1822 W Larchmont Ave Chicago, IL 60613",Filbert Park - Playground Park,Chicago_Park_Facility_794,1874,Ward 47,2497,Filbert Park
+-87.69193219689116,41.91505889266139,"2554 W Moffat St Chicago, IL 60647",Flower Park - Playground Park,Chicago_Park_Facility_795,1893,Ward 1,2189,Flower Park
+-87.59642150230533,41.774860864046325,"6600 S Woodlawn Ave Chicago, IL 60637",Flying Squirrel Park - Playground Park,Chicago_Park_Facility_797,1866,Ward 5,2112,Flying Squirrel Park
+-87.75461142866637,41.977550947691576,"5073 W Berwyn Ave Chicago, IL 60630",Forest Glen Park - Playground Park,Chicago_Park_Facility_799,1899,Ward 39,1951,Forest Glen Park
+-87.65809050430082,41.8645405478217,"1313 S Throop St Chicago, IL 60608",Fosco Park - Playground 1,Chicago_Park_Facility_802,1873,Ward 25,2337,Fosco Park
+-87.65678190833052,41.864496599533666,"1313 S Throop St Chicago, IL 60608",Fosco Park - Playground 2,Chicago_Park_Facility_803,1873,Ward 25,2337,Fosco Park
+-87.66091124465518,41.74227167361091,"1400 W 84th St Chicago, IL 60620",Foster Park - Playground,Chicago_Park_Facility_817,1878,Ward 21,1930,Foster Park
+-87.73263918192052,41.86075822713083,"1449 S Kolin Ave Chicago, IL 60623",Franklin Park - Playground,Chicago_Park_Facility_838,1864,Ward 24,2014,Franklin Park
+-87.63381709896241,41.81222426041669,"331 W 45th St Chicago, IL 60609",Fuller Park - Playground,Chicago_Park_Facility_849,1861,Ward 3,1910,Fuller Park
+-87.68548976122312,41.79254133542753,"2415 W 55th St Chicago, IL 60629",Gage Park - Playground,Chicago_Park_Facility_864,NA,NA,1927,Gage Park
+-87.76920057415778,41.9122848781119,"5729 W Bloomingdale Ave Chicago, IL 60639",Galewood Park - Playground,Chicago_Park_Facility_883,1897,Ward 29,1985,Galewood Park
+-87.71194361485117,41.88130340906728,"100 N Central Park Dr Chicago, IL 60624",Garfield Park - Playground 1,Chicago_Park_Facility_906,1896,Ward 28,2016,Garfield Park
+-87.71150650018359,41.8839756113643,"100 N Central Park Dr Chicago, IL 60624",Garfield Park - Playground 2,Chicago_Park_Facility_907,1896,Ward 28,2016,Garfield Park
+-87.66507218471553,41.87194915095311,"1520 W Polk St Chicago, IL 60607",Garibaldi Park - Playground,Chicago_Park_Facility_917,1896,Ward 28,2353,Garibaldi Park
+-87.60599407786977,41.707748535967156,"810 E 103rd St Chicago, IL 60628",Gately Park - Playground,Chicago_Park_Facility_926,1907,Ward 8,2050,Gately Park
+-87.65001732262444,41.95253618144557,"825 W Sheridan Rd Chicago, IL 60613",Gill Park - Playground,Chicago_Park_Facility_932,1860,Ward 46,2136,Gill Park
+-87.71201972196279,41.860982334416946,"3432 W 15th St Chicago, IL 60623",Ginkgo Park - Playground Park,Chicago_Park_Facility_933,1864,Ward 24,2124,Ginkgo Park
+-87.7730248938284,41.97957134265036,"5421 N Menard Ave Chicago, IL 60630",Gladstone Park - Playground,Chicago_Park_Facility_936,1886,Ward 45,1962,Gladstone Park
+-87.70869521399466,41.87594139292866,"3307 W Gladys Ave Chicago, IL 60624",Gladys Park - Playground,Chicago_Park_Facility_939,1896,Ward 28,2398,Gladys Park
+-87.66565973641491,42.01066243834907,"7053 N Glenwood Ave Chicago, IL 60626",Goldberg Park - Playground Park,Chicago_Park_Facility_941,1876,Ward 49,2149,Goldberg Park
+-87.61154430792311,41.65774789087369,"500 E 130th St Chicago, IL 60627",Golden Gate Park - Playground,Chicago_Park_Facility_944,1870,Ward 9,2087,Golden Gate Park
+-87.73689640019563,41.97578437655665,"4222 W Foster Ave Chicago, IL 60630",Gompers Park - Playground,Chicago_Park_Facility_955,1899,Ward 39,1935,Gompers Park
+-87.66299978042625,41.966716709619604,"4648 N Malden St Chicago, IL 60640",Gooseberry Park - Playground Park,Chicago_Park_Facility_963,1860,Ward 46,2125,Gooseberry Park
+-87.62690520600864,41.90560657303764,"1255 N Astor St Chicago, IL 60610",Goudy Square Park - Playground Park,Chicago_Park_Facility_964,1898,Ward 43,1968,Goudy Square Park
+-87.71501612487853,41.901196754527575,"3531 W Grand Ave Chicago, IL 60651",Grand Park - Playground Park,Chicago_Park_Facility_965,1905,Ward 27,2399,Grand Park
+-87.60116217134518,41.75565437283295,"7655 S Ingleside Ave Chicago, IL 60619",Grand Crossing Park - Playground,Chicago_Park_Facility_974,1907,Ward 8,1921,Grand Crossing Park
+-87.83879197185254,41.97861073045283,"5445 N Chester St Chicago, IL 60656",Grandparents' Park - Playground,Chicago_Park_Facility_984,1865,Ward 41,2215,Grandparents' Park
+-87.61803647519069,41.88223806087811,"331 E Randolph St Chicago, IL 60605",Grant Park - Playground,Chicago_Park_Facility_1007,NA,NA,1929,Grant Park
+-87.69934705826485,41.93346509237673,"2850 W Avondale Ave Chicago, IL 60618",Grape Park - Playground Park,Chicago_Park_Facility_1023,1858,Ward 33,2147,Grape Park
+-87.6602368165806,41.70743496752356,"1518 W 102nd Pl Chicago, IL 60643",Graver Park - Playground,Chicago_Park_Facility_1027,1885,Ward 19,2006,Graver Park
+-87.76644429457319,41.99985616887958,"6500 N Algonquin Ave Chicago, IL 60646",Green Park - Playground,Chicago_Park_Facility_1033,1865,Ward 41,2455,Green Park
+-87.69666929050769,41.991223843793534,"2650 W Peterson Ave Chicago, IL 60659",Green Briar Park - Playground,Chicago_Park_Facility_1038,1906,Ward 40,2010,Green Briar Park
+-87.73351061792403,41.911880315830736,"1729 N Kildare Ave Chicago, IL 60639",Greenebaum Park - Playground,Chicago_Park_Facility_1043,1867,Ward 26,1987,Greenebaum Park
+-87.69678518238995,41.96893059762033,"2708 W Lawrence Ave Chicago, IL 60625",Gross Park - Playground,Chicago_Park_Facility_1047,1906,Ward 40,2338,Gross Park
+-87.69593439544303,41.92521659917979,"2402 N Washtenaw Ave Chicago, IL 60647",Haas Park - Playground,Chicago_Park_Facility_1050,1893,Ward 1,2339,Haas Park
+-87.77798765260296,41.77999067849812,"6140 S Melvina Ave Chicago, IL 60638",Hale Park - Playground,Chicago_Park_Facility_1057,1869,Ward 13,2040,Hale Park
+-87.63686292205551,41.762619835913384,"513 W 72nd St Chicago, IL 60621",Hamilton Park - Playground,Chicago_Park_Facility_1073,1902,Ward 6,1915,Hamilton Park
+-87.67930194094691,41.9374891106276,"3035 N Hoyne Ave Chicago, IL 60618",Hamlin Park - Playground,Chicago_Park_Facility_1094,1887,Ward 32,1969,Hamlin Park
+-87.62029752057006,41.79189637832688,"5635 S Indiana Ave Chicago, IL 60637",Hansberry Park - Playground Park,Chicago_Park_Facility_1099,1884,Ward 20,2404,Hansberry Park
+-87.72480188746431,41.90240852987116,"3921 W Division St Chicago, IL 60651",Harding (Frederick) Park - Playground Park,Chicago_Park_Facility_1100,1900,Ward 37,2400,Harding (Frederick) Park
+-87.6183667222086,41.80554793355552,"4912 S Calumet Ave Chicago, IL 60615",Harding (George) Park - Playground,Chicago_Park_Facility_1102,1861,Ward 3,2340,Harding (George) Park
+-87.6045968035022,41.782105753076266,"6200 S Drexel Ave Chicago, IL 60637",Harris (Harriet) Park - Playground,Chicago_Park_Facility_1107,1884,Ward 20,2259,Harris (Harriet) Park
+-87.64006584449692,41.771930305835795,"6701 S Lowe Ave Chicago, IL 60621",Harris (Ryan) Memorial Park - Playground,Chicago_Park_Facility_1108,NA,NA,2467,Harris (Ryan) Memorial Park
+-87.67131358955827,41.85609225457375,"1824 S Wood St Chicago, IL 60608",Harrison Park - Playground,Chicago_Park_Facility_1121,1873,Ward 25,2025,Harrison Park
+-87.59550717907217,41.81385390945481,"4464 S Oakenwald Ave Chicago, IL 60653",Harsh Park - Playground Park,Chicago_Park_Facility_1128,1882,Ward 4,2107,Harsh Park
+-87.65769376051867,42.00227200103774,"1040 W Albion Ave Chicago, IL 60626",Hartigan Beach Park - Playground,Chicago_Park_Facility_1131,1876,Ward 49,2474,Hartigan Beach Park
+-87.56772978219502,41.7700550070132,"6855 S Oglesby Ave Chicago, IL 60649",Hasan Park - Playground Park,Chicago_Park_Facility_1132,1866,Ward 5,2093,Hasan Park
+-87.69587776157991,41.7420783654427,"2936 W 85th St Chicago, IL 60652",Hayes Park - Playground,Chicago_Park_Facility_1142,1875,Ward 18,2048,Hayes Park
+-87.77409636923737,41.892475867597256,"5949 W Huron St Chicago, IL 60644",Hazelnut Park - Playground Park,Chicago_Park_Facility_1147,1897,Ward 29,2176,Hazelnut Park
+-87.66865579407417,41.787014849961324,"5839 S Wood St Chicago, IL 60636",Hermitage Park - Playground,Chicago_Park_Facility_1151,1904,Ward 15,2317,Hermitage Park
+-87.7398351145481,41.922243945461766,"2240 N Kilbourn Ave Chicago, IL 60639",Hermosa Park - Playground,Chicago_Park_Facility_1157,1892,Ward 36,1980,Hermosa Park
+-87.82843574824298,41.94327490739587,"8029 W Forest Preserve Ave Chicago, IL 60634",Hiawatha Park - Playground,Chicago_Park_Facility_1166,1877,Ward 38,2035,Hiawatha Park
+-87.65809604723523,41.970164717391235,"4834 N Winthrop Ave Chicago, IL 60640",Hickory Park - Playground Park,Chicago_Park_Facility_1175,1860,Ward 46,2096,Hickory Park
+-87.59906508578158,41.76353721163568,"7221 S Dobson Ave Chicago, IL 60619",Hoard Park - Playground,Chicago_Park_Facility_1179,1866,Ward 5,2152,Hoard Park
+-87.60357716415096,41.82046188447197,"4052 S Ellis Ave Chicago, IL 60653",Holly Park - Playground Park,Chicago_Park_Facility_1181,1882,Ward 4,2108,Holly Park
+-87.71093912198621,41.98873229273415,"3312 W Thorndale Ave Chicago, IL 60659",Hollywood Park - Playground,Chicago_Park_Facility_1186,1899,Ward 39,1952,Hollywood Park
+-87.68500274641823,41.922417335667504,"2200 N Oakley Ave Chicago, IL 60647",Holstein Park - Playground,Chicago_Park_Facility_1191,1887,Ward 32,2015,Holstein Park
+-87.71045056354207,41.852257323949544,"2148 S Homan Ave Chicago, IL 60623",Homan Park - Playground Park,Chicago_Park_Facility_1194,1864,Ward 24,2402,Homan Park
+-87.71438048951039,41.86956537762809,"3517 W Arthington St Chicago, IL 60624",Homan Square Community Center Park - Playground,Chicago_Park_Facility_2190,1864,Ward 24,2250,Homan Square Community Center Park
+-87.60990004245139,41.810146086114784,"4637 S Champlain Ave Chicago, IL 60653",Honeysuckle Park - Playground Park,Chicago_Park_Facility_1195,1882,Ward 4,2126,Honeysuckle Park
+-87.67385861813476,41.89839036315298,"916 N Honore St Chicago, IL 60622",Honor<U+FFFD> Park - Playground Park,Chicago_Park_Facility_2192,1894,Ward 2,2255,Honor<U+FFFD> Park
+-87.70267203768188,41.875701812511835,"3035 W Van Buren St Chicago, IL 60612",Horan Park - Playground,Chicago_Park_Facility_1198,1896,Ward 28,2341,Horan Park
+-87.72058354475516,41.86187274516598,"1422 S Hamlin Ave Chicago, IL 60623",Hornbeam Park - Playground Park,Chicago_Park_Facility_1200,1864,Ward 24,2128,Hornbeam Park
+-87.69797943673422,41.96008068488788,"2741 W Montrose Ave Chicago, IL 60618",Horner Park - Playground,Chicago_Park_Facility_1217,1858,Ward 33,2034,Horner Park
+-87.6047345597901,41.80385050761709,"5001 S Cottage Grove Ave Chicago, IL 60615",Houston Park - Playground,Chicago_Park_Facility_1228,1882,Ward 4,2080,Houston Park
+-87.66424860204621,42.01907478551968,"1300 W Howard St Chicago, IL 60626",Howard Beach Park - Playground,Chicago_Park_Facility_1230,1876,Ward 49,2478,Howard Beach Park
+-87.6787647022565,41.83128620561536,"3417 S Hamilton Ave Chicago, IL 60608",Hoyne Park - Playground,Chicago_Park_Facility_1234,1871,Ward 12,2342,Hoyne Park
+-87.74983728677442,41.888816599583265,"4950 W Hubbard St Chicago, IL 60644",Hubbard Park - Playground,Chicago_Park_Facility_1237,1900,Ward 37,2403,Hubbard Park
+-87.59523562701584,41.78220632266265,"6200 S Kimbark Ave Chicago, IL 60637",Huckleberry Park - Playground Park,Chicago_Park_Facility_1238,1884,Ward 20,2117,Huckleberry Park
+-87.64299257942974,41.83834694823104,"632 W 31st St Chicago, IL 60616",Humbert Park - Playground Park,Chicago_Park_Facility_1240,1881,Ward 11,2413,Humbert Park
+-87.69988668490996,41.90973987511876,"1400 N Humboldt Dr Chicago, IL 60622",Humboldt Park - Playground 1,Chicago_Park_Facility_1268,1867,Ward 26,2031,Humboldt Park
+-87.69931490084808,41.908079628851496,"1400 N Humboldt Dr Chicago, IL 60622",Humboldt Park - Playground 2,Chicago_Park_Facility_1269,1867,Ward 26,2031,Humboldt Park
+-87.70599856797173,41.90360954773527,"1400 N Humboldt Dr Chicago, IL 60622",Humboldt Park - Playground 3,Chicago_Park_Facility_1270,1867,Ward 26,2031,Humboldt Park
+-87.70338193882351,41.89884049443211,"1400 N Humboldt Dr Chicago, IL 60622",Humboldt Park - Playground 4,Chicago_Park_Facility_1271,1867,Ward 26,2031,Humboldt Park
+-87.6973831746494,41.9053802379302,"1400 N Humboldt Dr Chicago, IL 60622",Humboldt Park - Playground 5,Chicago_Park_Facility_4534,1867,Ward 26,2031,Humboldt Park
+-87.66940867372588,41.71179319497596,"1901 W 100th St Chicago, IL 60643",Hurley Park - Playground,Chicago_Park_Facility_1284,1885,Ward 19,2005,Hurley Park
+-87.72348448000926,41.952405790653415,"3945 N Springfield Ave Chicago, IL 60618",Independence Park - Playground,Chicago_Park_Facility_1292,1886,Ward 45,1956,Independence Park
+-87.6931938460837,42.00976936966141,"2500 W Lunt Ave Chicago, IL 60645",Indian Boundary Park - Playground,Chicago_Park_Facility_1299,1889,Ward 50,1998,Indian Boundary Park
+-87.77877593019491,41.99282130147543,"6010 W Matson Ave Chicago, IL 60646",Indian Road Park - Playground,Chicago_Park_Facility_1308,1899,Ward 39,2344,Indian Road Park
+-87.57585548667308,41.773655063429224,"6401 S Stony Island Ave Chicago, IL 60637",Jackson (Andrew) Park - Playground 1,Chicago_Park_Facility_1332,1866,Ward 5,1925,Jackson (Andrew) Park
+-87.5859329982477,41.779209893070025,"6401 S Stony Island Ave Chicago, IL 60637",Jackson (Andrew) Park - Playground 2,Chicago_Park_Facility_1333,1866,Ward 5,1925,Jackson (Andrew) Park
+-87.58540243701643,41.78282737415874,"6401 S Stony Island Ave Chicago, IL 60637",Jackson (Andrew) Park - Playground 3,Chicago_Park_Facility_1334,1866,Ward 5,1925,Jackson (Andrew) Park
+-87.58585391162366,41.79286945853321,"6401 S Stony Island Ave Chicago, IL 60637",Jackson (Andrew) Park - Playground 4,Chicago_Park_Facility_1335,1866,Ward 5,1925,Jackson (Andrew) Park
+-87.5850165864844,41.79301765868304,"6401 S Stony Island Ave Chicago, IL 60637",Jackson (Andrew) Park - Playground 5,Chicago_Park_Facility_1336,1866,Ward 5,1925,Jackson (Andrew) Park
+-87.583192639998,41.773543059413825,"6401 S Stony Island Ave Chicago, IL 60637",Jackson (Andrew) Park - Playground 6,Chicago_Park_Facility_4064,1866,Ward 5,1925,Jackson (Andrew) Park
+-87.57264598794086,41.781404663179295,"6401 S Stony Island Ave Chicago, IL 60637",Jackson (Andrew) Park - Playground 7,Chicago_Park_Facility_4539,1866,Ward 5,1925,Jackson (Andrew) Park
+-87.62085621615006,41.8158942690753,"4319 S Indiana Ave Chicago, IL 60653",Jackson (Robert) Park - Playground Park,Chicago_Park_Facility_1370,1861,Ward 3,2405,Jackson (Robert) Park
+-87.69832130063682,41.966621472740705,"4674 N Virginia Ave Chicago, IL 60625",Jacob Park - Playground Park,Chicago_Park_Facility_1371,1906,Ward 40,1994,Jacob Park
+-87.66109742510108,41.84377774056621,"2731 S Eleanor St Chicago, IL 60608",Jacolik Park - Playground Park,Chicago_Park_Facility_1372,1881,Ward 11,2502,Jacolik Park
+-87.70448162342322,41.88605719362381,"3111 W Fulton Blvd Chicago, IL 60612",Jefferson (Nancy) Park - Playground,Chicago_Park_Facility_1375,1905,Ward 27,2119,Jefferson (Nancy) Park
+-87.64222197618203,41.85898268698794,"1630 S Jefferson St Chicago, IL 60616",Jefferson (Thomas) Park - Playground,Chicago_Park_Facility_1376,NA,NA,2406,Jefferson (Thomas) Park
+-87.76321543311968,41.9682707634099,"4822 N Long Ave Chicago, IL 60630",Jefferson (Thomas) Memorial Park - Playground,Chicago_Park_Facility_1380,1886,Ward 45,1963,Jefferson (Thomas) Memorial Park
+-87.72088432431946,41.96617171269868,"4600 N Lawndale Ave Chicago, IL 60625",Jensen Park - Playground,Chicago_Park_Facility_1390,1903,Ward 35,1955,Jensen Park
+-87.62895738370433,41.8662544205528,"1240 S Plymouth Ct Chicago, IL 60616",Jones Park - Playground,Chicago_Park_Facility_1392,1861,Ward 3,2220,Jones Park
+-87.65505530928336,41.928345875151486,"1023 W Wrightwood Ave Chicago, IL 60614",Jonquil Park - Playground,Chicago_Park_Facility_1394,1898,Ward 43,2487,Jonquil Park
+-87.63431843659697,41.777776691599556,"345 W 64th St Chicago, IL 60621",Junction Grove Park - Playground Park,Chicago_Park_Facility_1397,1884,Ward 20,2174,Junction Grove Park
+-87.66682381911133,41.948606490332686,"3656 N Greenview Ave Chicago, IL 60613",Juniper Park - Playground Park,Chicago_Park_Facility_1398,1868,Ward 44,2157,Juniper Park
+-87.73047665946726,41.90664495827196,"4140 W Hirsch St Chicago, IL 60651",Kedvale Park - Playground,Chicago_Park_Facility_1402,1867,Ward 26,2345,Kedvale Park
+-87.72964590352154,41.8648219040079,"1243 S Keeler Ave Chicago, IL 60623",Keeler Park - Playground Park,Chicago_Park_Facility_1404,1864,Ward 24,2407,Keeler Park
+-87.70753243935388,41.89531796546405,"3201 W Chicago Ave Chicago, IL 60624",Kells Park - Playground,Chicago_Park_Facility_1406,1905,Ward 27,2346,Kells Park
+-87.69305501140863,41.819200094153466,"2725 W 41st St Chicago, IL 60632",Kelly (Edward) Park - Playground,Chicago_Park_Facility_1413,1871,Ward 12,2064,Kelly (Edward) Park
+-87.65699816200987,41.95348296890666,"3800 N Seminary Ave Chicago, IL 60613",Kelly (John) Park - Playground,Chicago_Park_Facility_1415,1868,Ward 44,2231,Kelly (John) Park
+-87.73773493355874,41.9291453643922,"4438 W Wrightwood Ave Chicago, IL 60639",Kelvyn Park - Playground,Chicago_Park_Facility_1421,1888,Ward 31,1981,Kelvyn Park
+-87.7335544821538,41.93500321966956,"2945 N Kenosha Ave Chicago, IL 60641",Ken-Well Park - Playground,Chicago_Park_Facility_1456,1888,Ward 31,2348,Ken-Well Park
+-87.65493655147927,41.93932061998375,"3141 N Kenmore Ave Chicago, IL 60657",Kenmore Park - Playground Park,Chicago_Park_Facility_1427,1868,Ward 44,2408,Kenmore Park
+-87.68221507948803,41.687687077164234,"11320 S Western Ave Chicago, IL 60655",Kennedy Park - Playground,Chicago_Park_Facility_1435,1885,Ward 19,1941,Kennedy Park
+-87.59790031050223,41.81410066330972,"4434 S Lake Park Ave Chicago, IL 60653",Kennicott Park - Playground,Chicago_Park_Facility_1444,1882,Ward 4,2225,Kennicott Park
+-87.6159555461922,41.67956101843024,"345 E 118th St Chicago, IL 60628",Kensington Park - Playground,Chicago_Park_Facility_1449,1870,Ward 9,2347,Kensington Park
+-87.59356738132728,41.80570045090402,"1330 E 50th St Chicago, IL 60615",Kenwood Comm. Park - Playground,Chicago_Park_Facility_1463,1882,Ward 4,2318,Kenwood Comm. Park
+-87.72723225217987,41.91151957301952,"1655 N Keystone Ave Chicago, IL 60639",Keystone Park - Playground Park,Chicago_Park_Facility_1470,1867,Ward 26,2409,Keystone Park
+-87.73896596506665,41.94410273828135,"3501 N Kilbourn Ave Chicago, IL 60641",Kilbourn Park - Playground,Chicago_Park_Facility_1479,1895,Ward 30,1957,Kilbourn Park
+-87.65450419610114,41.754651770811115,"1212 W 77th St Chicago, IL 60620",King Park - Playground,Chicago_Park_Facility_1485,1863,Ward 17,2115,King Park
+-87.67350443953745,41.946221016253624,"3538-40 N Lincoln Ave Chicago, IL 60657",Klein Park - Playground Park,Chicago_Park_Facility_1488,1874,Ward 47,2278,Klein Park
+-87.74150904429095,41.956399408461856,"4143 N Kolmar Ave Chicago, IL 60641",Kolmar Park - Playground,Chicago_Park_Facility_1490,1886,Ward 45,1958,Kolmar Park
+-87.68887738253076,41.993923281020265,"6156 N Claremont Ave Chicago, IL 60659",Korczak Park - Playground Park,Chicago_Park_Facility_1491,1906,Ward 40,2390,Korczak Park
+-87.72435953677737,41.93021834918143,"2732 N Avers Ave Chicago, IL 60647",Kosciuszko Park - Playground,Chicago_Park_Facility_1502,1888,Ward 31,1975,Kosciuszko Park
+-87.53675568232212,41.702906570997555,"10558 S Avenue L Chicago, IL 60617",Krause Park - Playground Park,Chicago_Park_Facility_1505,1891,Ward 10,2382,Krause Park
+-87.66655302209237,41.83302641003476,"1635 W 33rd Pl Chicago, IL 60608",Kucinski- Murphy Park - Playground,Chicago_Park_Facility_1507,1871,Ward 12,2367,Kucinski- Murphy Park
+-87.75130215792018,41.904573508974146,"1333 N Laramie Ave Chicago, IL 60651",La Follette Park - Playground 1,Chicago_Park_Facility_1514,1900,Ward 37,2013,La Follette Park
+-87.75482991110376,41.905582748193446,"1333 N Laramie Ave Chicago, IL 60651",La Follette Park - Playground 2,Chicago_Park_Facility_1515,1900,Ward 37,2013,La Follette Park
+-87.70167766262651,41.841170222570454,"2800 S Sacramento Ave Chicago, IL 60608",La Villita Park - Playground,Chicago_Park_Facility_10934,1871,Ward 12,2286,La Villita Park
+-87.61146035927955,41.837927630795576,"3113 S Rhodes Ave Chicago, IL 60616",Lake Meadows Park - Playground,Chicago_Park_Facility_1525,1882,Ward 4,2067,Lake Meadows Park
+-87.61785148482507,41.897462791142225,"254 E Chicago Ave Chicago, IL 60611",Lake Shore Park - Playground,Chicago_Park_Facility_1532,1894,Ward 2,1970,Lake Shore Park
+-87.65730308421014,41.696198827658534,"1400 W 109th St Chicago, IL 60643",Lamb Park - Playground,Chicago_Park_Facility_1535,1859,Ward 34,2199,Lamb Park
+-87.65498908479776,41.989910474551834,"1000 W Thorndale Ave Chicago, IL 60660",Lane Beach Park - Playground,Chicago_Park_Facility_1538,1872,Ward 48,2484,Lane Beach Park
+-87.674874086185,42.00188401104014,"1754 W Albion Ave Chicago, IL 60626",Langdon Park - Playground Park,Chicago_Park_Facility_1539,1876,Ward 49,2380,Langdon Park
+-87.60571308923456,41.68935614595773,"700 E 113th St Chicago, IL 60628",Langley Park - Playground,Chicago_Park_Facility_1541,1870,Ward 9,2410,Langley Park
+-87.75235724788939,41.776778722675324,"5210 W 64th St Chicago, IL 60638",Lawler Park - Playground,Chicago_Park_Facility_1549,1869,Ward 13,2319,Lawler Park
+-87.66319003471726,42.00417767298289,"1257 W Columbia Ave Chicago, IL 60626",Lazarus Park - Playground Park,Chicago_Park_Facility_1551,1876,Ward 49,2203,Lazarus Park
+-87.75080610912501,41.81280459050595,"5116 W 44th St Chicago, IL 60638",Le Claire- Hearst Park - Playground,Chicago_Park_Facility_1558,1880,Ward 22,2097,Le Claire- Hearst Park
+-87.71446370139505,41.73526551925528,"3700 W 87th St Chicago, IL 60652",Lee Park - Playground Park,Chicago_Park_Facility_1561,1875,Ward 18,2500,Lee Park
+-87.7053842202821,41.98113769255634,"3100 W Bryn Mawr Ave Chicago, IL 60659",Legion Park - Playground 1,Chicago_Park_Facility_1568,NA,NA,2077,Legion Park
+-87.70667367237559,41.98460772081174,"3100 W Bryn Mawr Ave Chicago, IL 60659",Legion Park - Playground 2,Chicago_Park_Facility_1569,NA,NA,2077,Legion Park
+-87.70830512889873,41.985103597630356,"3100 W Bryn Mawr Ave Chicago, IL 60659",Legion Park - Playground 3,Chicago_Park_Facility_1570,NA,NA,2077,Legion Park
+-87.70791321920332,41.988586559546206,"3100 W Bryn Mawr Ave Chicago, IL 60659",Legion Park - Playground 4,Chicago_Park_Facility_1571,NA,NA,2077,Legion Park
+-87.64139939274868,41.75745080710809,"7526 S Lowe Ave Chicago, IL 60621",Leland Giants Park - Playground,Chicago_Park_Facility_1576,1902,Ward 6,2160,Leland Giants Park
+-87.66316226324096,42.01318997629664,"1222 W Touhy Ave Chicago, IL 60626",Leone Beach Park - Playground,Chicago_Park_Facility_1579,1876,Ward 49,2321,Leone Beach Park
+-87.70521962028916,42.00787004731081,"7000 N Sacramento Ave Chicago, IL 60645",Lerner Park - Playground,Chicago_Park_Facility_1582,1889,Ward 50,2076,Lerner Park
+-87.76250044961165,41.88849482797489,"462 N Pine Ave Chicago, IL 60644",Levin Park - Playground,Chicago_Park_Facility_1587,1900,Ward 37,2463,Levin Park
+-87.63975939931686,41.762416850155404,"632 W 71st St Chicago, IL 60621",Lily Gardens Park - Playground,Chicago_Park_Facility_1589,1902,Ward 6,2461,Lily Gardens Park
+-87.71159618443636,41.847501786616704,"2410 S Trumbull Ave Chicago, IL 60623",Limas Park - Playground Park,Chicago_Park_Facility_1590,1880,Ward 22,2371,Limas Park
+-87.63599664957131,41.92088324214864,"200 W Fullerton Pkwy Chicago, IL 60614",Lincoln Park - Playground 1,Chicago_Park_Facility_1636,NA,NA,1965,Lincoln Park
+-87.63804094890304,41.930055699964896,"200 W Fullerton Pkwy Chicago, IL 60614",Lincoln Park - Playground 2,Chicago_Park_Facility_1637,NA,NA,1965,Lincoln Park
+-87.63687191680967,41.938173936002855,"200 W Fullerton Pkwy Chicago, IL 60614",Lincoln Park - Playground 3,Chicago_Park_Facility_1638,NA,NA,1965,Lincoln Park
+-87.64389513309527,41.95326215682864,"200 W Fullerton Pkwy Chicago, IL 60614",Lincoln Park - Playground 4,Chicago_Park_Facility_1639,NA,NA,1965,Lincoln Park
+-87.64590300969276,41.96345946888213,"200 W Fullerton Pkwy Chicago, IL 60614",Lincoln Park - Playground 5,Chicago_Park_Facility_1640,NA,NA,1965,Lincoln Park
+-87.64681750022105,41.97052875647679,"200 W Fullerton Pkwy Chicago, IL 60614",Lincoln Park - Playground 6,Chicago_Park_Facility_1641,NA,NA,1965,Lincoln Park
+-87.64959655717294,41.97263984336574,"200 W Fullerton Pkwy Chicago, IL 60614",Lincoln Park - Playground 7,Chicago_Park_Facility_1642,NA,NA,1965,Lincoln Park
+-87.65358749582235,41.98478864909315,"200 W Fullerton Pkwy Chicago, IL 60614",Lincoln Park - Playground 8,Chicago_Park_Facility_1643,NA,NA,1965,Lincoln Park
+-87.63411230074722,41.93407285311137,"200 W Fullerton Pkwy Chicago, IL 60614",Lincoln Park - Playground 9,Chicago_Park_Facility_1644,NA,NA,1965,Lincoln Park
+-87.63898698346969,41.94300234776589,"200 W Fullerton Pkwy Chicago, IL 60614",Lincoln Park - Playground 10,Chicago_Park_Facility_4171,NA,NA,1965,Lincoln Park
+-87.67447555159201,41.78264548483956,"6054 S Damen Ave Chicago, IL 60636",Lindblom Park - Playground,Chicago_Park_Facility_1688,1901,Ward 16,2049,Lindblom Park
+-87.72584855859914,41.90179158017919,"1139 N Pulaski Rd Chicago, IL 60651",Linden Park - Playground,Chicago_Park_Facility_1694,1900,Ward 37,2100,Linden Park
+-87.681345624007,41.80170822000094,"2251 W 50th Pl Chicago, IL 60609",Little Venice Park - Playground,Chicago_Park_Facility_1696,1904,Ward 15,2361,Little Venice Park
+-87.71174518591735,41.85737860799118,"3432 W 18th St Chicago, IL 60623",London Park - Playground Park,Chicago_Park_Facility_1699,1864,Ward 24,2412,London Park
+-87.640884243738,41.79948903594131,"5203 S Lowe Ave Chicago, IL 60609",Lowe Park - Playground,Chicago_Park_Facility_1703,1861,Ward 3,2350,Lowe Park
+-87.66061040114981,42.01089570829189,"1230 W Greenleaf Ave Chicago, IL 60626",Loyola Park - Playground,Chicago_Park_Facility_1711,1876,Ward 49,1974,Loyola Park
+-87.56767197192481,41.712597458829926,"10021 S Luella Ave Chicago, IL 60617",Luella Park - Playground,Chicago_Park_Facility_1718,1883,Ward 7,2414,Luella Park
+-87.64668702058329,41.79264195625926,"5558 S Green St Chicago, IL 60621",Luna Park - Playground Park,Chicago_Park_Facility_1719,1884,Ward 20,2196,Luna Park
+-87.68751571868859,42.008417073726626,"2239 W Lunt Ave Chicago, IL 60645",Lunt Park - Playground Park,Chicago_Park_Facility_1720,1889,Ward 50,2415,Lunt Park
+-87.63976836686875,41.755224036771345,"7700 S Wallace St Chicago, IL 60620",Lyle Park - Playground,Chicago_Park_Facility_1721,NA,NA,2485,Lyle Park
+-87.7070259875897,41.873117193626314,"3228 W Flournoy St Chicago, IL 60624",Magnolia Park - Playground Park,Chicago_Park_Facility_1722,1864,Ward 24,2114,Magnolia Park
+-87.63464044207046,41.7954016798186,"5426 S Shields Ave Chicago, IL 60609",Malus Park - Playground Park,Chicago_Park_Facility_1724,1861,Ward 3,2159,Malus Park
+-87.60721372311788,41.82331244477015,"900 E Pershing Rd. Chicago, IL 60653",Mandrake Park - Playground,Chicago_Park_Facility_1729,1882,Ward 4,2240,Mandrake Park
+-87.5514652632612,41.65701469322319,"3035 E 130th St Chicago, IL 60633",Mann Park - Playground,Chicago_Park_Facility_1743,1891,Ward 10,1923,Mann Park
+-87.70984908464796,41.918762868956016,"2047 N Spaulding Ave Chicago, IL 60647",Maple Park - Playground Park,Chicago_Park_Facility_1750,1867,Ward 26,2498,Maple Park
+-87.6911166745772,41.911066317255,"1640 N Maplewood Ave Chicago, IL 60647",Maplewood Park - Playground,Chicago_Park_Facility_1753,1893,Ward 1,2351,Maplewood Park
+-87.69505895108554,41.76505460162987,"6734 S Kedzie Ave Chicago, IL 60629",Marquette Park - Playground 1,Chicago_Park_Facility_1779,1863,Ward 17,1916,Marquette Park
+-87.70929496544419,41.7709327708285,"6734 S Kedzie Ave Chicago, IL 60629",Marquette Park - Playground 2,Chicago_Park_Facility_1780,1863,Ward 17,1916,Marquette Park
+-87.66451080056802,41.73551769151711,"1637 W 87th St Chicago, IL 60620",Marshfield Park - Playground,Chicago_Park_Facility_1800,1878,Ward 21,2352,Marshfield Park
+-87.65266933145544,41.939214932804845,"922 W Fletcher St Chicago, IL 60657",Martin Park - Playground Park,Chicago_Park_Facility_1802,1868,Ward 44,2200,Martin Park
+-87.72847312313868,41.884340700887215,"4100 W West End Ave Chicago, IL 60624",Mason Park - Playground,Chicago_Park_Facility_1803,1896,Ward 28,2441,Mason Park
+-87.68052475426033,42.00742796258811,"6937 N Ridge Blvd Chicago, IL 60626",Matanky Park - Playground,Chicago_Park_Facility_1805,1876,Ward 49,2001,Matanky Park
+-87.70270227032687,41.9895241081186,"5835 N Lincoln Ave Chicago, IL 60659",Mather Park - Playground,Chicago_Park_Facility_1817,1906,Ward 40,2047,Mather Park
+-87.74237372986711,41.96288588430901,"4550 W Sunnyside Ave Chicago, IL 60630",Mayfair Park - Playground,Chicago_Park_Facility_1828,1899,Ward 39,1959,Mayfair Park
+-87.64926334576217,41.841325469301445,"2901 S Poplar Ave Chicago, IL 60608",McGuane Park - Playground,Chicago_Park_Facility_1839,1881,Ward 11,1908,McGuane Park
+-87.64467065738383,41.81274855788771,"4446-58 S. Emerald Ave Chicago, IL 60609",McInerney Park - Playground,Chicago_Park_Facility_1848,1881,Ward 11,2198,McInerney Park
+-87.64156621411475,41.82920074013096,"600 W 36th St Chicago, IL 60609",McKeon Park - Playground Park,Chicago_Park_Facility_1849,1881,Ward 11,2440,McKeon Park
+-87.70252334524051,41.69812236447892,"10714 S Sawyer Ave Chicago, IL 60655",McKiernan Park - Playground,Chicago_Park_Facility_1853,1885,Ward 19,2365,McKiernan Park
+-87.68093908590615,41.82539699274824,"2210 W Pershing Rd Chicago, IL 60609",McKinley Park - Playground,Chicago_Park_Facility_1869,1871,Ward 12,1928,McKinley Park
+-87.66945737126306,41.983165884875895,"1600 W Bryn Mawr Ave Chicago, IL 60640",Mellin Park - Playground Park,Chicago_Park_Facility_1883,1906,Ward 40,2462,Mellin Park
+-87.62910896827658,41.761550255519374,"149 W 73rd St Chicago, IL 60621",Memorial Park - Playground,Chicago_Park_Facility_1886,1902,Ward 6,2354,Memorial Park
+-87.57225795494412,41.71937659477951,"2131 E 96th St Chicago, IL 60617",Merrill Park - Playground,Chicago_Park_Facility_1890,1883,Ward 7,2417,Merrill Park
+-87.78450059426625,41.952410533020675,"6343 W Irving Park Rd Chicago, IL 60634",Merrimac Park - Playground,Chicago_Park_Facility_1896,1877,Ward 38,2060,Merrimac Park
+-87.67052814595398,41.949979701196746,"3736 N Marshfield Ave Chicago, IL 60613",Merryman Park - Playground Park,Chicago_Park_Facility_1898,1874,Ward 47,2416,Merryman Park
+-87.62686613725576,41.8189214722318,"4196 S State St Chicago, IL 60609",Metcalfe Park - Playground,Chicago_Park_Facility_1902,1861,Ward 3,2201,Metcalfe Park
+-87.61646189933963,41.764705562172665,"7140 S Dr Martin Luther King J Chicago, IL 60619",Meyering Park - Playground,Chicago_Park_Facility_1908,1902,Ward 6,2355,Meyering Park
+-87.7113949204998,41.84093114420651,"2754 S Trumbull Ave Chicago, IL 60623",Miami Park - Playground Park,Chicago_Park_Facility_1910,1880,Ward 22,2206,Miami Park
+-87.67764181873027,41.79729063874342,"5311 S Hamilton Ave Chicago, IL 60609",Micek Park - Playground,Chicago_Park_Facility_1913,1901,Ward 16,2335,Micek Park
+-87.71629974990022,41.86354395465899,"1331 S Millard Ave Chicago, IL 60623",Millard Park - Playground Park,Chicago_Park_Facility_1925,1864,Ward 24,2418,Millard Park
+-87.65256344179157,41.870466144844094,"848 S Miller St Chicago, IL 60607",Miller Park - Playground Park,Chicago_Park_Facility_1926,1873,Ward 25,2419,Miller Park
+-87.76254075168323,41.78516417757499,"5940 S Central Ave Chicago, IL 60638",Minuteman Park - Playground,Chicago_Park_Facility_1934,NA,NA,2099,Minuteman Park
+-87.59508253063952,41.77733336517535,"6446 S Kimbark Ave Chicago, IL 60637",Moccasin Ranch Park - Playground Park,Chicago_Park_Facility_1938,1884,Ward 20,2118,Moccasin Ranch Park
+-87.68924855576532,41.77346655918761,"2632 W 66th St Chicago, IL 60629",Montgomery Park - Playground Park,Chicago_Park_Facility_1939,1863,Ward 17,2420,Montgomery Park
+-87.71817619220712,41.91415516474718,"1814 N Monticello Ave Chicago, IL 60647",Monticello Park - Playground,Chicago_Park_Facility_1941,1893,Ward 1,2421,Monticello Park
+-87.81781470585541,42.001628438363156,"6700 N Avondale Ave Chicago, IL 60631",Monument Park - Playground,Chicago_Park_Facility_1942,1865,Ward 41,1944,Monument Park
+-87.75282858705829,41.8783386869112,"5085 W Adams St Chicago, IL 60644",Moore Park - Playground,Chicago_Park_Facility_1945,1896,Ward 28,2356,Moore Park
+-87.65424043910149,41.78998804854987,"5727 S Racine Ave Chicago, IL 60621",Moran Park - Playground,Chicago_Park_Facility_1949,1901,Ward 16,2357,Moran Park
+-87.64774769858322,41.68156805949998,"11710 S Morgan St Chicago, IL 60643",Morgan Field Park - Playground,Chicago_Park_Facility_1953,1859,Ward 34,2422,Morgan Field Park
+-87.71230240561144,41.69094649943995,"3724 W 111th St Chicago, IL 60655",Mount Greenwood Park - Playground,Chicago_Park_Facility_1965,1885,Ward 19,2057,Mount Greenwood Park
+-87.72317075282636,41.91777957388342,"2036 N Avers Ave Chicago, IL 60647",Mozart Park - Playground,Chicago_Park_Facility_1980,1867,Ward 26,1983,Mozart Park
+-87.66657144558908,41.836103613615606,"3150 S Robinson Ct Chicago, IL 60608",Mulberry Park - Playground Park,Chicago_Park_Facility_1981,1871,Ward 12,2499,Mulberry Park
+-87.68723874484344,41.70232197808094,"2617 W 105th St Chicago, IL 60655",Munroe Park - Playground,Chicago_Park_Facility_1986,1885,Ward 19,2358,Munroe Park
+-87.66834767853612,41.76091861094353,"1743 W 73rd St Chicago, IL 60636",Murray Park - Playground,Chicago_Park_Facility_1994,1863,Ward 17,2359,Murray Park
+-87.58037715889492,41.76582168213479,"1833 E 71st St Chicago, IL 60649",Nash Community Center Park - Playground,Chicago_Park_Facility_2000,1883,Ward 7,2223,Nash Community Center Park
+-87.70205661824934,41.937115630344884,"2953 W Nelson St Chicago, IL 60618",Nelson Park - Playground Park,Chicago_Park_Facility_2001,1858,Ward 33,2423,Nelson Park
+-87.59389464694405,41.79741265048508,"1342 E 54th St Chicago, IL 60615",Nichols Park - Playground 1,Chicago_Park_Facility_2004,1882,Ward 4,2079,Nichols Park
+-87.59461261883332,41.79624625602844,"1342 E 54th St Chicago, IL 60615",Nichols Park - Playground 2,Chicago_Park_Facility_2005,1882,Ward 4,2079,Nichols Park
+-87.72351211104792,41.86104600473678,"1447-1453 S Harding Ave Chicago, IL 60623",Ninebark Park - Playground Park,Chicago_Park_Facility_2008,1864,Ward 24,2130,Ninebark Park
+-87.78897233485242,41.79793726432961,"6660 W 52nd St Chicago, IL 60638",Normandy Park - Playground,Chicago_Park_Facility_2014,1890,Ward 14,2360,Normandy Park
+-87.7421410634928,41.97331631274252,"4537 W Carmen Ave Chicago, IL 60630",North Mayfair Park - Playground Park,Chicago_Park_Facility_2016,1899,Ward 39,1960,North Mayfair Park
+-87.7940430970415,41.987487790069245,"5801 N Natoma Ave Chicago, IL 60631",Norwood Park - Playground,Chicago_Park_Facility_2027,1865,Ward 41,1989,Norwood Park
+-87.66861179073946,41.74280939972313,"8335 S Honore St Chicago, IL 60620",O'Hallaren Park - Playground,Chicago_Park_Facility_2079,1878,Ward 21,2320,O'Hallaren Park
+-87.64769890482933,41.719637322560075,"965 W 95th St Chicago, IL 60643",Oakdale Park - Playground,Chicago_Park_Facility_2042,1878,Ward 21,2041,Oakdale Park
+-87.68064770379019,41.776331290861954,"6441 S Oakley Ave Chicago, IL 60636",Oakley Park - Playground Park,Chicago_Park_Facility_2045,1901,Ward 16,2425,Oakley Park
+-87.65485420398119,41.77427549861242,"6500 S Racine Ave Chicago, IL 60636",Ogden Park - Playground 1,Chicago_Park_Facility_2062,1863,Ward 17,1914,Ogden Park
+-87.65729111443923,41.77738527144442,"6500 S Racine Ave Chicago, IL 60636",Ogden Park - Playground 2,Chicago_Park_Facility_2064,1863,Ward 17,1914,Ogden Park
+-87.7442402910913,41.891707871061634,"4712 W Ohio St Chicago, IL 60644",Ohio Park - Playground,Chicago_Park_Facility_2085,1896,Ward 28,2427,Ohio Park
+-87.72436564301066,41.89212377199933,"607 N Harding Ave Chicago, IL 60624",Ohio & Harding Park - Playground Park,Chicago_Park_Facility_2088,1900,Ward 37,2426,Ohio & Harding Park
+-87.81468043348828,41.99900112463539,"6566 N Avondale Ave Chicago, IL 60631",Olympia Park - Playground,Chicago_Park_Facility_2094,1865,Ward 41,1946,Olympia Park
+-87.81476063125221,41.97779775316472,"5430 N Olcott Ave Chicago, IL 60656",Oriole Park - Playground 1,Chicago_Park_Facility_2107,1865,Ward 41,1945,Oriole Park
+-87.81651043534194,41.980863230079954,"5430 N Olcott Ave Chicago, IL 60656",Oriole Park - Playground 2,Chicago_Park_Facility_2108,1865,Ward 41,1945,Oriole Park
+-87.57447759803594,41.73440123128841,"2100 E 88th St Chicago, IL 60617",Owens Park - Playground,Chicago_Park_Facility_2126,1907,Ward 8,2043,Owens Park
+-87.64568092524384,41.92159377994018,"2021 N Burling St Chicago, IL 60614",Oz Park - Playground,Chicago_Park_Facility_2141,1898,Ward 43,2181,Oz Park
+-87.66285499495199,41.8051441490512,"4856 S Laflin St Chicago, IL 60609",Packingtown Park - Playground Park,Chicago_Park_Facility_2148,1884,Ward 20,2168,Packingtown Park
+-87.6171906484198,41.69212749140502,"200 E 111th St Chicago, IL 60628",Palmer Park - Playground,Chicago_Park_Facility_2161,1870,Ward 9,1919,Palmer Park
+-87.70497385130118,41.92114967842654,"2200 N Kedzie Ave Chicago, IL 60647",Palmer Square Park - Playground,Chicago_Park_Facility_9334,NA,NA,2273,Palmer Square Park
+-87.72320775841034,41.94069549606555,"3823 W School St Chicago, IL 60618",Park-View Park - Playground Park,Chicago_Park_Facility_2205,1895,Ward 30,2362,Park-View Park
+-87.68874561955373,41.90729664907211,"1420 N Artesian Ave Chicago, IL 60622",Park 399 - Playground Park,Chicago_Park_Facility_2176,1893,Ward 1,2164,Park 399
+-87.70720178899109,41.874926205490596,"3200 W Congress Pkwy Chicago, IL 60624",Park 422 - Playground,Chicago_Park_Facility_2177,1896,Ward 28,2180,Park 422
+-87.72260468912776,41.87140607888757,"730 S Springfield Ave Chicago, IL 60624",Park 500 - Playground,Chicago_Park_Facility_2183,1864,Ward 24,2236,Park 500
+-87.71272492639345,41.85394397569138,"1944 S St. Louis Ave Chicago, IL 60623",Park 519 - Playground Park,Chicago_Park_Facility_2191,1864,Ward 24,2254,Park 519
+-87.71259124150343,41.86376099782715,"1300 S St Louis Ave Chicago, IL 60623",Park 534 - Playground,Chicago_Park_Facility_2197,1864,Ward 24,2268,Park 534
+-87.64875682586379,41.91602705375557,"800 W Wisconsin St Chicago, IL 60614",Park 535 - Playground Park,Chicago_Park_Facility_2199,1898,Ward 43,2269,Park 535
+-87.62852808062266,41.84897605244282,"2401 S Federal St Chicago, IL 60616",Park 540 - Playground,Chicago_Park_Facility_4538,1861,Ward 3,2274,Park 540
+-87.61718924144374,41.885956612559745,"450 E. Benton Place Chicago, IL 60611",Park 546 - Playground,Chicago_Park_Facility_2200,1879,Ward 42,2279,Park 546
+-87.64319251719863,41.88873177763696,"353 N Des Plaines St Chicago, IL 60661",Park 551 - Playground,Chicago_Park_Facility_2202,1879,Ward 42,2284,Park 551
+-87.69051630590666,41.87822974999902,"2540 W Jackson Blvd Chicago, IL 60612",Park 574 - Playground,Chicago_Park_Facility_11923,1905,Ward 27,2305,Park 574
+-87.67516788040687,41.88391309743802,"1919 W Maypole Ave Chicago, IL 60612",Park 578 - Playground,Chicago_Park_Facility_0,1905,Ward 27,2308,Park 578
+-87.64809042067655,41.92883948538422,"745 W Wrightwood Ave Chicago, IL 60614",Park West - Playground Park,Chicago_Park_Facility_2204,1898,Ward 43,2443,Park West
+-87.74467989963966,41.93921486558347,"4701 W Belmont Ave Chicago, IL 60641",Parsons Park - Playground Park,Chicago_Park_Facility_2206,1895,Ward 30,2237,Parsons Park
+-87.6795072937378,42.00916859277167,"1932 W Lunt Ave Chicago, IL 60626",Paschen Park - Playground,Chicago_Park_Facility_2210,1876,Ward 49,2363,Paschen Park
+-87.7323398754258,41.78793402463812,"5825 S Kostner Ave Chicago, IL 60629",Pasteur Park - Playground,Chicago_Park_Facility_2217,1869,Ward 13,2053,Pasteur Park
+-87.61804127400454,41.81520294982578,"4347 S Calumet Ave Chicago, IL 60653",Pendleton Park - Playground,Chicago_Park_Facility_317,1861,Ward 3,2120,Pendleton Park
+-87.62810472770931,41.77476536818688,"100 W 66th St Chicago, IL 60621",Periwinkle Park - Playground Park,Chicago_Park_Facility_2224,1884,Ward 20,2194,Periwinkle Park
+-87.72142578603464,41.98918803259627,"5801 N Pulaski Rd Chicago, IL 60646",Peterson Park - Playground 1,Chicago_Park_Facility_2234,1899,Ward 39,2205,Peterson Park
+-87.71965084701046,41.98687558212577,"5801 N Pulaski Rd Chicago, IL 60646",Peterson Park - Playground 2,Chicago_Park_Facility_2235,1899,Ward 39,2205,Peterson Park
+-87.53813564367887,41.71970803370159,"9650 S Avenue M Chicago, IL 60617",Pietrowski Park - Playground,Chicago_Park_Facility_2242,1891,Ward 10,2364,Pietrowski Park
+-87.56562939034914,41.72233933844998,"9507 S Oglesby Ave Chicago, IL 60617",Pine Park - Playground Park,Chicago_Park_Facility_2243,1891,Ward 10,2501,Pine Park
+-87.72986706860854,41.83638643648786,"4200 W 31st St Chicago, IL 60623",Piotrowski Park - Playground,Chicago_Park_Facility_2253,1880,Ward 22,2036,Piotrowski Park
+-87.7978409169774,41.99845290777694,"6813 W Imlay St Chicago, IL 60631",Pleasant Point Park - Playground,Chicago_Park_Facility_2264,1865,Ward 41,1988,Pleasant Point Park
+-87.62050900137012,41.82062806621432,"4046 S Prairie Ave Chicago, IL 60653",Poplar Park - Playground Park,Chicago_Park_Facility_2266,1861,Ward 3,2106,Poplar Park
+-87.76670040074217,41.954343354566085,"4100 N Long Ave Chicago, IL 60641",Portage Park - Playground,Chicago_Park_Facility_2277,1877,Ward 38,1992,Portage Park
+-87.6785915017031,42.01478544007195,"7340 N Rogers Ave Chicago, IL 60626",Pottawattomie Park - Playground,Chicago_Park_Facility_2295,1876,Ward 49,1999,Pottawattomie Park
+-87.60329949356424,41.780005350432475,"6310 S Drexel Ave Chicago, IL 60637",Prairie Wolf Park - Playground Park,Chicago_Park_Facility_2300,1884,Ward 20,2111,Prairie Wolf Park
+-87.6534677878873,41.915058839536485,"1844 N Sheffield Ave Chicago, IL 60614",Privet Park - Playground Park,Chicago_Park_Facility_2302,1898,Ward 43,2144,Privet Park
+-87.60460628531867,41.761152919550746,"7334 S Maryland Ave Chicago, IL 60619",Railroad Junction Park - Playground Park,Chicago_Park_Facility_2310,1907,Ward 8,2129,Railroad Junction Park
+-87.5536658751492,41.759571949061325,"2873 E 75th St Chicago, IL 60649",Rainbow Beach Park - Playground,Chicago_Park_Facility_2321,1883,Ward 7,2311,Rainbow Beach Park
+-87.72947906438296,41.7510502526416,"4350 W 79th St Chicago, IL 60652",Rainey Park - Playground,Chicago_Park_Facility_2339,1875,Ward 18,1933,Rainey Park
+-87.7006134198455,41.96531251078989,"4626 N Manor Ave Chicago, IL 60625",Ravenswood Manor Park - Playground,Chicago_Park_Facility_2346,1858,Ward 33,1997,Ravenswood Manor Park
+-87.691151355836,41.953046702103215,"2509 W Irving Park Rd Chicago, IL 60618",Revere Park - Playground,Chicago_Park_Facility_2352,1874,Ward 47,2007,Revere Park
+-87.66884220048526,41.71876180894911,"9625 S Longwood Dr Chicago, IL 60643",Ridge Park - Playground,Chicago_Park_Facility_2366,1885,Ward 19,2002,Ridge Park
+-87.78250170820239,41.92629708128503,"6100 W Fullerton Ave Chicago, IL 60639",Riis Park - Playground 1,Chicago_Park_Facility_2375,1895,Ward 30,1978,Riis Park
+-87.779096169026,41.92460706949144,"6100 W Fullerton Ave Chicago, IL 60639",Riis Park - Playground 2,Chicago_Park_Facility_2376,1895,Ward 30,1978,Riis Park
+-87.70171664891977,41.97342235740163,"5100 N Francisco Ave Chicago, IL 60625",River Park - Playground 1,Chicago_Park_Facility_2398,NA,NA,2008,River Park
+-87.7057356516426,41.97374558173298,"5100 N Francisco Ave Chicago, IL 60625",River Park - Playground 2,Chicago_Park_Facility_2399,NA,NA,2008,River Park
+-87.75912836816356,41.971954657896056,"5230 W Argyle St Chicago, IL 60630",Roberts Square Park - Playground,Chicago_Park_Facility_2409,1886,Ward 45,1964,Roberts Square Park
+-87.63423037808776,41.72473269161089,"9247 S Eggleston Ave Chicago, IL 60620",Robichaux Park - Playground,Chicago_Park_Facility_2415,1878,Ward 21,2103,Robichaux Park
+-87.64804295578286,41.70164103087938,"10540 S Morgan St Chicago, IL 60643",Robinson Park - Playground,Chicago_Park_Facility_2424,1859,Ward 34,2042,Robinson Park
+-87.69660603164576,42.01429655698017,"7345 N Washtenaw Ave Chicago, IL 60645",Rogers Park - Playground,Chicago_Park_Facility_2435,1889,Ward 50,2046,Rogers Park
+-87.70368991357286,41.97107592249061,"3000 W Argyle St Chicago, IL 60625",Ronan Park - Playground,Chicago_Park_Facility_2445,NA,NA,2078,Ronan Park
+-87.78547563739296,41.98885746052358,"6312 W Rosedale Ave Chicago, IL 60646",Rosedale Park - Playground 1,Chicago_Park_Facility_5826,1886,Ward 45,1961,Rosedale Park
+-87.78613544529917,41.98869072852506,"6312 W Rosedale Ave Chicago, IL 60646",Rosedale Park - Playground 2,Chicago_Park_Facility_2453,1886,Ward 45,1961,Rosedale Park
+-87.58018170006916,41.758566151286765,"2000 E 75th St Chicago, IL 60649",Rosenblum Park - Playground,Chicago_Park_Facility_2459,1907,Ward 8,2037,Rosenblum Park
+-87.53669415623612,41.68560789831066,"11546 S Avenue L Chicago, IL 60617",Rowan Park - Playground,Chicago_Park_Facility_2469,1891,Ward 10,2054,Rowan Park
+-87.54984391158482,41.74355344172572,"3045 E 83rd St Chicago, IL 60617",Russell Square Park - Playground,Chicago_Park_Facility_2481,1891,Ward 10,1912,Russell Square Park
+-87.7977500126204,41.92081282827751,"6871 W Belden Ave Chicago, IL 60635",Rutherford Sayre Park - Playground,Chicago_Park_Facility_2493,NA,NA,1982,Rutherford Sayre Park
+-87.70324807063476,41.94551454808015,"3520 N Sacramento Ave Chicago, IL 60618",Sacramento Park - Playground,Chicago_Park_Facility_2500,1858,Ward 33,2431,Sacramento Park
+-87.71332317027803,41.88768683894867,"347 N St Louis Ave Chicago, IL 60624",Saint Louis Park - Playground,Chicago_Park_Facility_2505,1896,Ward 28,2433,Saint Louis Park
+-87.73747605687642,41.98831275130794,"5861 N Kostner Ave Chicago, IL 60646",Sauganash Park - Playground,Chicago_Park_Facility_2511,1899,Ward 39,2012,Sauganash Park
+-87.66903547202003,41.92574584342462,"2415 N Marshfield Ave Chicago, IL 60614",Schaefer Park - Playground Park,Chicago_Park_Facility_2516,1887,Ward 32,2432,Schaefer Park
+-87.67017574874424,41.999411140877285,"1552 W Schreiber Ave Chicago, IL 60626",Schreiber Park - Playground,Chicago_Park_Facility_2518,1906,Ward 40,2366,Schreiber Park
+-87.73634223817233,41.74187084759391,"4620 W 83rd Pl Chicago, IL 60652",Scottsdale Park - Playground,Chicago_Park_Facility_2524,1875,Ward 18,2069,Scottsdale Park
+-87.62241356806696,41.89700577232851,"228 E Chicago Ave Chicago, IL 60611",Seneca Park - Playground,Chicago_Park_Facility_2525,1894,Ward 2,2472,Seneca Park
+-87.71145070620607,41.79176845889461,"5656 S St Louis Ave Chicago, IL 60629",Senka Park - Playground,Chicago_Park_Facility_2532,1890,Ward 14,2101,Senka Park
+-87.66816397012266,41.99064998426742,"5887 N Ridge Ave Chicago, IL 60660",Senn Park - Playground,Chicago_Park_Facility_2541,1872,Ward 48,2033,Senn Park
+-87.63892139668066,41.903055102661654,"375 W Elm St Chicago, IL 60610",Seward Park - Playground,Chicago_Park_Facility_2551,1905,Ward 27,1971,Seward Park
+-87.79920174571225,41.94435797623933,"6935 W Addison Chicago, IL 60634",Shabbona Park - Playground,Chicago_Park_Facility_2562,1877,Ward 38,1993,Shabbona Park
+-87.71646682458977,41.85004101134294,"3660 W 23rd St Chicago, IL 60623",Shedd Park - Playground,Chicago_Park_Facility_2572,1880,Ward 22,2024,Shedd Park
+-87.66357148796668,41.9455149304139,"3505 N Southport Ave Chicago, IL 60657",Sheil Community Center Park - Playground,Chicago_Park_Facility_2575,1868,Ward 44,2163,Sheil Community Center Park
+-87.65526115815335,41.870466462064236,"910 S Aberdeen St Chicago, IL 60607",Sheridan Park - Playground,Chicago_Park_Facility_2585,1873,Ward 25,2017,Sheridan Park
+-87.65865904468323,41.79908237863711,"1307 W 52nd St Chicago, IL 60609",Sherman Park - Playground 1,Chicago_Park_Facility_2602,1884,Ward 20,1913,Sherman Park
+-87.65918783970335,41.794475907880724,"1307 W 52nd St Chicago, IL 60609",Sherman Park - Playground 2,Chicago_Park_Facility_2603,1884,Ward 20,1913,Sherman Park
+-87.65525051508646,41.79604918655974,"1307 W 52nd St Chicago, IL 60609",Sherman Park - Playground 3,Chicago_Park_Facility_2604,1884,Ward 20,1913,Sherman Park
+-87.63323846444771,41.79068525295397,"5705 S Shields Ave Chicago, IL 60621",Sherwood Park - Playground,Chicago_Park_Facility_2617,1884,Ward 20,2322,Sherwood Park
+-87.71525981654801,41.911612319200415,"1640 N Drake Ave Chicago, IL 60647",Simons Park - Playground,Chicago_Park_Facility_2623,1867,Ward 26,1979,Simons Park
+-87.64119007705078,41.842515469467216,"2835 S Wallace St Chicago, IL 60616",Sintic Park - Playground Park,Chicago_Park_Facility_2625,1881,Ward 11,2437,Sintic Park
+-87.66001698932466,41.87964839829751,"1331 W  Monroe St Chicago, IL 60606",Skinner Park - Playground,Chicago_Park_Facility_2633,1905,Ward 27,2023,Skinner Park
+-87.6894749171375,41.893422168527884,"2526 W Grand Ave Chicago, IL 60612",Smith (Joseph Higgins) Park - Playground,Chicago_Park_Facility_2645,1867,Ward 26,2323,Smith (Joseph Higgins) Park
+-87.6314371012735,41.71368126201389,"9912 S Princeton Ave Chicago, IL 60628",Smith (Wendell) Park - Playground,Chicago_Park_Facility_2654,1870,Ward 9,2075,Smith (Wendell) Park
+-87.70433570055367,41.89147387126934,"534 N Albany Ave Chicago, IL 60612",Snapping Turtle Park - Playground Park,Chicago_Park_Facility_2655,1905,Ward 27,2161,Snapping Turtle Park
+-87.67417709652905,41.893814085948904,"1855 W Huron St Chicago, IL 60622",Snowberry Park - Playground Park,Chicago_Park_Facility_2656,1893,Ward 1,2154,Snowberry Park
+-87.66192079197947,41.93368416306424,"1300 W Wolfram St Chicago, IL 60657",South Lakeview Park - Playground,Chicago_Park_Facility_2659,1887,Ward 32,2089,South Lakeview Park
+-87.7283583365994,41.9667958101413,"4706 N Pulaski Rd Chicago, IL 60630",Spikings Farm Park - Playground Park,Chicago_Park_Facility_2666,1899,Ward 39,2182,Spikings Farm Park
+-87.58991075424983,41.798900999317645,"1437 E 54th St Chicago, IL 60615",Spruce Park - Playground,Chicago_Park_Facility_2667,1866,Ward 5,2082,Spruce Park
+-87.64539208949552,41.90571150558422,"640 W Scott St Chicago, IL 60610",Stanton Park - Playground,Chicago_Park_Facility_2675,1905,Ward 27,1972,Stanton Park
+-87.68452283501249,41.88365857760063,"2306 W Maypole Ave Chicago, IL 60612",Starr Park - Playground,Chicago_Park_Facility_2678,1905,Ward 27,2234,Starr Park
+-87.79830374958975,41.79892691958045,"7000 W 51st Pl Chicago, IL 60638",Stars & Stripes Park - Playground,Chicago_Park_Facility_2680,1862,Ward 23,2140,Stars & Stripes Park
+-87.59995476295079,41.79724586218497,"5446 S Greenwood Ave Chicago, IL 60615",Stout Park - Playground 1,Chicago_Park_Facility_2689,1866,Ward 5,2090,Stout Park
+-87.59993984264442,41.79605521084148,"5446 S Greenwood Ave Chicago, IL 60615",Stout Park - Playground 2,Chicago_Park_Facility_2690,1866,Ward 5,2090,Stout Park
+-87.73210022897386,41.79475429334669,"4347 W 54th St Chicago, IL 60632",Strohacker Park - Playground,Chicago_Park_Facility_2695,1862,Ward 23,2324,Strohacker Park
+-87.61019082964884,41.81830022117686,"4201 S Champlain Ave Chicago, IL 60653",Sumac Park - Playground Park,Chicago_Park_Facility_2700,1882,Ward 4,2489,Sumac Park
+-87.80902722211881,41.977686008280806,"7262 W Summerdale Ave Chicago, IL 60656",Summerdale Park - Playground Park,Chicago_Park_Facility_2701,1865,Ward 41,2435,Summerdale Park
+-87.63376596157583,41.84806268881224,"300 W 24th Pl Chicago, IL 60616",Sun Yat-Sen Park - Playground,Chicago_Park_Facility_2702,1881,Ward 11,2204,Sun Yat-Sen Park
+-87.65888886002989,41.92800062234911,"2528 N Racine Ave Chicago, IL 60614",Supera Park - Playground Park,Chicago_Park_Facility_2703,1898,Ward 43,2429,Supera Park
+-87.67974891573,41.89466516184811,"2101 W Superior St Chicago, IL 60612",Superior Park - Playground Park,Chicago_Park_Facility_2704,1893,Ward 1,2434,Superior Park
+-87.75463691356683,41.89286343948842,"650 N Leamington Ave Chicago, IL 60644",Sweet Clover Park - Playground Park,Chicago_Park_Facility_2705,1900,Ward 37,2188,Sweet Clover Park
+-87.5992674835324,41.80181253518015,"5109 S Greenwood Ave Chicago, IL 60615",Sycamore Park - Playground,Chicago_Park_Facility_2706,1882,Ward 4,2490,Sycamore Park
+-87.6434946689102,41.81869112033144,"647 W Root St Chicago, IL 60609",Taylor- Lauridsen Park - Playground,Chicago_Park_Facility_2723,1881,Ward 11,2332,Taylor- Lauridsen Park
+-87.64825675692968,41.7406927240609,"8421 S Morgan St Chicago, IL 60620",The Grove Park - Playground Park,Chicago_Park_Facility_2725,1878,Ward 21,2162,The Grove Park
+-87.65854345420523,41.8574568766664,"1811 S Throop St Chicago, IL 60608",Throop Park - Playground,Chicago_Park_Facility_2729,1873,Ward 25,2438,Throop Park
+-87.75232620363164,41.96770828391916,"4800 N Lavergne Ave Chicago, IL 60630",Thuis Park - Playground,Chicago_Park_Facility_2731,1886,Ward 45,2411,Thuis Park
+-87.60074476824546,41.77808684750269,"6410 S Ellis Ave Chicago, IL 60637",Till-Mobley Park - Playground,Chicago_Park_Facility_2734,1884,Ward 20,2436,Till-Mobley Park
+-87.73492554033587,41.88572917936407,"305 N Kostner Chicago, IL 60624",Tilton Park - Playground,Chicago_Park_Facility_2736,1896,Ward 28,2369,Tilton Park
+-87.63432298499676,41.85739588787836,"300 W 18th St Chicago, IL 60616",Ping Tom Memorial Park - Playground,Chicago_Park_Facility_2739,1873,Ward 25,2222,Ping Tom Memorial Park
+-87.679348627742,41.8792399261795,"2106 W Adams St Chicago, IL 60612",Touhy- Herbert Park - Playground,Chicago_Park_Facility_2753,1905,Ward 27,2370,Touhy- Herbert Park
+-87.67275166582526,42.01564025179911,"7348 N Paulina St Chicago, IL 60626",Touhy Park - Playground,Chicago_Park_Facility_2746,1876,Ward 49,2052,Touhy Park
+-87.56369432332038,41.70576206422305,"2400 E 105th St Chicago, IL 60617",Trumbull Park - Playground,Chicago_Park_Facility_2767,1883,Ward 7,1922,Trumbull Park
+-87.61113786536585,41.72956432196275,"501 E 90th Pl Chicago, IL 60619",Tuley Park - Playground,Chicago_Park_Facility_2783,1870,Ward 9,1924,Tuley Park
+-87.66497622885244,41.884759365359336,"1501 W Randolph St Chicago, IL 60607",Union Park - Playground,Chicago_Park_Facility_2808,1905,Ward 27,2022,Union Park
+-87.71261205241258,41.92962355043311,"2636 N Kimball Ave Chicago, IL 60647",Unity Park - Playground,Chicago_Park_Facility_2813,1903,Ward 35,2092,Unity Park
+-87.79662007937819,41.78453997445577,"7001 W 59th St Chicago, IL 60638",Valley Forge Park - Playground,Chicago_Park_Facility_2821,NA,NA,2141,Valley Forge Park
+-87.5557969332969,41.71747726854899,"2820 E 98th St Chicago, IL 60617",Veterans' Memorial Park - Playground,Chicago_Park_Facility_2830,1891,Ward 10,2372,Veterans' Memorial Park
+-87.72873493943283,41.869329806277214,"4120 W Taylor St Chicago, IL 60624",Violet Park - Playground,Chicago_Park_Facility_2833,1864,Ward 24,2133,Violet Park
+-87.74712076339124,41.80276773931818,"5014 W 50th St Chicago, IL 60638",Vittum Park - Playground,Chicago_Park_Facility_2844,1880,Ward 22,2039,Vittum Park
+-87.68187153335425,41.968976247064944,"2100 W Lawrence Ave Chicago, IL 60625",Vogle Park - Playground Park,Chicago_Park_Facility_2850,1874,Ward 47,2166,Vogle Park
+-87.6498003939655,41.80175868241498,"948 W 51st St Chicago, IL 60609",Wagner Park - Playground,Chicago_Park_Facility_2851,1884,Ward 20,2373,Wagner Park
+-87.63894903120682,41.726809200266715,"607 W 92nd St Chicago, IL 60620",Wallace Park - Playground,Chicago_Park_Facility_2853,1878,Ward 21,2374,Wallace Park
+-87.71908932246572,41.81137022680339,"3801 W 45th St Chicago, IL 60632",Ruiz Park - Playground,Chicago_Park_Facility_2855,1890,Ward 14,2494,Ruiz Park
+-87.6686699629799,41.91389534197118,"1722 N Ashland Ave Chicago, IL 60614",Walsh Park - Playground,Chicago_Park_Facility_2858,1887,Ward 32,2158,Walsh Park
+-87.67287583464696,41.933242771480536,"1719 W Wolfram St Chicago, IL 60657",Wang Park - Playground,Chicago_Park_Facility_2859,1887,Ward 32,2257,Wang Park
+-87.64233644901896,41.89373703998645,"630 N Kingsbury Ave Chicago, IL 60610",Montgomery Ward Park - Playground,Chicago_Park_Facility_2861,NA,NA,2246,Montgomery Ward Park
+-87.68888048817952,42.00040110362367,"6621 N Western Ave Chicago, IL 60645",Warren Park - Playground 1,Chicago_Park_Facility_2875,1889,Ward 50,2186,Warren Park
+-87.68924778944114,42.00463011563548,"6621 N Western Ave Chicago, IL 60645",Warren Park - Playground 2,Chicago_Park_Facility_2876,1889,Ward 50,2186,Warren Park
+-87.68155841866684,42.00454655915166,"6621 N Western Ave Chicago, IL 60645",Warren Park - Playground 3,Chicago_Park_Facility_2877,1889,Ward 50,2186,Warren Park
+-87.57665277411493,41.74554785213762,"8215 S Euclid Ave Chicago, IL 60617",Washington (Dinah) Park - Playground Park,Chicago_Park_Facility_2887,1907,Ward 8,2153,Washington (Dinah) Park
+-87.61207227816324,41.78627486922774,"5531 S Dr Martin Luther King J Chicago, IL 60637",Washington (George) Park - Playground 1,Chicago_Park_Facility_2917,NA,NA,1926,Washington (George) Park
+-87.6154760556948,41.799195499949896,"5531 S Dr Martin Luther King J Chicago, IL 60637",Washington (George) Park - Playground 2,Chicago_Park_Facility_2918,NA,NA,1926,Washington (George) Park
+-87.60665609569816,41.79560508100476,"5531 S Dr Martin Luther King J Chicago, IL 60637",Washington (George) Park - Playground 3,Chicago_Park_Facility_2919,NA,NA,1926,Washington (George) Park
+-87.61474803647705,41.79187360628662,"5531 S Dr Martin Luther King J Chicago, IL 60637",Washington (George) Park - Playground 4,Chicago_Park_Facility_4138,NA,NA,1926,Washington (George) Park
+-87.58252525623989,41.80081441786175,"5200 S Hyde Park Blvd Chicago, IL 60615",Washington (Harold) Park - Playground,Chicago_Park_Facility_2935,1866,Ward 5,2232,Washington (Harold) Park
+-87.67338742508832,42.02149093112561,"7710 N Paulina St Chicago, IL 60626",Washington (Harold) Memorial Park - Playground Park,Chicago_Park_Facility_2945,1876,Ward 49,2242,Washington (Harold) Memorial Park
+-87.69243051121646,41.84580875291724,"2521 S Washtenaw Ave Chicago, IL 60608",Washtenaw Park - Playground,Chicago_Park_Facility_2947,1864,Ward 24,2375,Washtenaw Park
+-87.6518856339303,41.93519403731097,"901 W Oakdale Ave Chicago, IL 60657",Weisman Park - Playground Park,Chicago_Park_Facility_2949,1868,Ward 44,2424,Weisman Park
+-87.68752201812947,41.96281323791877,"2333 W Sunnyside Ave Chicago, IL 60625",Welles Park - Playground 1,Chicago_Park_Facility_4537,1874,Ward 47,1973,Welles Park
+-87.68732043387614,41.96172297965583,"2333 W Sunnyside Ave Chicago, IL 60625",Welles Park - Playground 2,Chicago_Park_Facility_2962,1874,Ward 47,1973,Welles Park
+-87.6471415767255,41.94335654924439,"667 W Roscoe St Chicago, IL 60657",Wendt Park - Playground Park,Chicago_Park_Facility_2967,1868,Ward 44,2430,Wendt Park
+-87.77956535564955,41.7889498770601,"5625 S Mobile Ave Chicago, IL 60638",Wentworth Park - Playground,Chicago_Park_Facility_2976,1869,Ward 13,2044,Wentworth Park
+-87.63187268161774,41.82557396555776,"3770 S Wentworth Ave Chicago, IL 60609",Wentworth Gardens Park - Playground,Chicago_Park_Facility_2987,1861,Ward 3,2085,Wentworth Gardens Park
+-87.53722238825794,41.65158491796385,"13407 S Avenue M Chicago, IL 60633",Wesolek Park - Playground,Chicago_Park_Facility_2989,1891,Ward 10,2383,Wesolek Park
+-87.6313629402265,41.74538325784219,"8223 S Princeton Ave Chicago, IL 60620",West Chatham Park - Playground,Chicago_Park_Facility_2994,1878,Ward 21,2055,West Chatham Park
+-87.7297164825977,41.7744925144708,"4233 W 65th St Chicago, IL 60629",West Lawn Park - Playground,Chicago_Park_Facility_3006,1869,Ward 13,2051,West Lawn Park
+-87.63115150361757,41.670395794358555,"401 W 123rd St Chicago, IL 60628",West Pullman Park - Playground,Chicago_Park_Facility_3017,1859,Ward 34,2032,West Pullman Park
+-87.68656123553593,41.89799777842348,"907 N Western Ave Chicago, IL 60622",Western Park - Playground Park,Chicago_Park_Facility_3025,1893,Ward 1,2442,Western Park
+-87.64983668008949,41.67286857232804,"1120 W 122nd St Chicago, IL 60643",White (Edward) Park - Playground,Chicago_Park_Facility_3033,1859,Ward 34,2146,White (Edward) Park
+-87.67091352363265,42.020211172769336,"7631 N Ashland Ave Chicago, IL 60626",White (Willye) Park - Playground,Chicago_Park_Facility_3040,1876,Ward 49,2349,White (Willye) Park
+-87.67672168905571,41.90828852021301,"1425 N Damen Ave Chicago, IL 60622",Wicker Park - Playground,Chicago_Park_Facility_3048,1893,Ward 1,2026,Wicker Park
+-87.67291414507856,41.936582720360235,"1747 W Nelson St Chicago, IL 60657",Wieboldt Park - Playground Park,Chicago_Park_Facility_3050,1887,Ward 32,2202,Wieboldt Park
+-87.77948134404076,42.007494131828444,"6950 N Hiawatha Ave Chicago, IL 60646",Wildwood Park - Playground,Chicago_Park_Facility_3057,1861,Ward 3,2061,Wildwood Park
+-87.59972282620228,41.82025028771283,"4101 S. Lake Park Ave Chicago, IL 60653",Williams- Davis Park - Playground,Chicago_Park_Facility_4536,1882,Ward 4,2266,Williams- Davis Park
+-87.62948337961677,41.843868500673345,"2820 S State St Chicago, IL 60616",Williams Park - Playground,Chicago_Park_Facility_3066,1894,Ward 2,2065,Williams Park
+-87.75898152575593,41.964784615142634,"4630 N Milwaukee Ave Chicago, IL 60630",Wilson (Frank) Park - Playground,Chicago_Park_Facility_3073,1886,Ward 45,1990,Wilson (Frank) Park
+-87.65425434304142,41.83183243201359,"1122 W 34th Pl Chicago, IL 60608",Wilson (John) Park - Playground,Chicago_Park_Facility_3080,1881,Ward 11,2376,Wilson (John) Park
+-87.68384333299684,41.972734046150656,"5001 N Leavitt St Chicago, IL 60625",Winnemac Park - Playground,Chicago_Park_Facility_3088,1906,Ward 40,2226,Winnemac Park
+-87.67099095409816,41.7742313526548,"6551 S Wolcott Ave Chicago, IL 60636",Wolcott Park - Playground Park,Chicago_Park_Facility_3092,1904,Ward 15,2167,Wolcott Park
+-87.54287115309185,41.698739013176166,"3325 E 108th St Chicago, IL 60617",Wolfe Park - Playground,Chicago_Park_Facility_3098,1891,Ward 10,2377,Wolfe Park
+-87.6833847317716,41.9347026093817,"2914 N Leavitt St Chicago, IL 60618",Wood Park - Playground,Chicago_Park_Facility_3100,1887,Ward 32,2102,Wood Park
+-87.58400571128266,41.762234206697464,"7340 S East End Ave Chicago, IL 60649",Woodhull Park - Playground,Chicago_Park_Facility_3103,1907,Ward 8,2378,Woodhull Park
+-87.66637799201393,41.928596640619176,"2534 N Greenview Ave Chicago, IL 60614",Wrightwood Park - Playground,Chicago_Park_Facility_3111,1887,Ward 32,2379,Wrightwood Park
+-87.67288967182665,41.959278967399726,"4246 N Hermitage Ave Chicago, IL 60613",Zatterberg Park - Playground Park,Chicago_Park_Facility_3114,1874,Ward 47,2401,Zatterberg Park

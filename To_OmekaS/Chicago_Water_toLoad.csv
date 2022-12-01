@@ -1,0 +1,352 @@
+schema:longitude,schema:latitude,schema:address,schema:name,schema:identifier,schema:addressLocality,schema:name...18,schema:containedInPlace,schema:name...17
+-87.62230559641255,41.72089146364475,"49 E 95th St Chicago, IL 60628",Abbott Park - Pool (Outdoor),Chicago_Park_Facility_8,1870,Ward 9,2063,Abbott Park
+-87.62187172707627,41.72148857957661,"49 E 95th St Chicago, IL 60628",Abbott Park - Spray Feature 1,Chicago_Park_Facility_11,1870,Ward 9,2063,Abbott Park
+-87.62249252280019,41.7214789431201,"49 E 95th St Chicago, IL 60628",Abbott Park - Spray Feature 2,Chicago_Park_Facility_12,1870,Ward 9,2063,Abbott Park
+-87.65607419100785,41.6885766854841,"11250 S Ada St Chicago, IL 60643",Ada Park - Pool (Outdoor),Chicago_Park_Facility_26,1859,Ward 34,1938,Ada Park
+-87.65583923916014,41.688724523570606,"11250 S Ada St Chicago, IL 60643",Ada Park - Spray Feature,Chicago_Park_Facility_28,1859,Ward 34,1938,Ada Park
+-87.65513282636383,41.91712285768598,"1919 N Seminary Ave Chicago, IL 60614",Adams (George & Adele) Park - Water Playground,Chicago_Park_Facility_36,1898,Ward 43,2327,Adams (George & Adele) Park
+-87.6637302298824,41.86309554162578,"1301 W 14th St Chicago, IL 60608",Addams (Jane) Park - Spray Feature,Chicago_Park_Facility_3212,1896,Ward 28,2066,Addams (Jane) Park
+-87.6933679271584,41.874022772911566,"515 S Washtenaw Ave Chicago, IL 60612",Altgeld Park - Pool (Outdoor),Chicago_Park_Facility_45,1896,Ward 28,2018,Altgeld Park
+-87.7794481549066,41.91329658423375,"6200 W Bloomingdale Ave Chicago, IL 60639",Amundsen Park - Spray Feature,Chicago_Park_Facility_55,1897,Ward 29,1984,Amundsen Park
+-87.6206492009532,41.82576521104588,"3748 S Prairie Ave Chicago, IL 60653",Anderson (Louis) Park - Spray Feature,Chicago_Park_Facility_61,1861,Ward 3,2328,Anderson (Louis) Park
+-87.73508677412029,41.8038486707639,"4901 S Kilbourn Ave Chicago, IL 60632",Archer Park - Water Playground,Chicago_Park_Facility_78,1890,Ward 14,2056,Archer Park
+-87.63480499982082,41.83423414251416,"3309 S Shields Ave Chicago, IL 60616",Armour Square Park - Pool (Outdoor),Chicago_Park_Facility_85,1881,Ward 11,1909,Armour Square Park
+-87.63352353302145,41.83426357497113,"3309 S Shields Ave Chicago, IL 60616",Armour Square Park - Spray Feature,Chicago_Park_Facility_88,1881,Ward 11,1909,Armour Square Park
+-87.55735249799433,41.76263482092485,"2701 E 74th St Chicago, IL 60649",Ashe Beach Park - Beach,Chicago_Park_Facility_100,1883,Ward 7,2209,Ashe Beach Park
+-87.65562046062657,41.96664446017253,"4639 N Kenmore Ave Chicago, IL 60640",Aster Park - Spray Feature,Chicago_Park_Facility_17341,1860,Ward 46,2122,Aster Park
+-87.71707905392562,41.94700247380021,"3546 W Addison St Chicago, IL 60618",Athletic Field Park - Spray Feature,Chicago_Park_Facility_3141,1903,Ward 35,1953,Athletic Field Park
+-87.77438197904699,41.88771319968113,"5951 W Lake St Chicago, IL 60644",Austin Park - Water Playground,Chicago_Park_Facility_117,1897,Ward 29,2448,Austin Park
+-87.76609858991776,41.88827527301937,"5610 W Lake St Chicago, IL 60644",Austin Town Hall Park - Pool (Indoor),Chicago_Park_Facility_124,1897,Ward 29,2019,Austin Town Hall Park
+-87.59418045041879,41.74280621339425,"1215 E 83rd St Chicago, IL 60619",Avalon Park - Pool (Outdoor),Chicago_Park_Facility_137,1907,Ward 8,1932,Avalon Park
+-87.59424803033644,41.74309884401369,"1215 E 83rd St Chicago, IL 60619",Avalon Park - Spray Feature,Chicago_Park_Facility_139,1907,Ward 8,1932,Avalon Park
+-87.71540700695896,41.941713430889685,"3516 W School St Chicago, IL 60618",Avondale Park - Pool (Outdoor),Chicago_Park_Facility_151,1903,Ward 35,1954,Avondale Park
+-87.71502429342664,41.94140541771714,"3516 W School St Chicago, IL 60618",Avondale Park - Spray Feature,Chicago_Park_Facility_153,1903,Ward 35,1954,Avondale Park
+-87.65797630159014,41.8044875765971,"4920 S Throop St Chicago, IL 60609",Back of the Yards Park - Spray Feature,Chicago_Park_Facility_157,1884,Ward 20,2368,Back of the Yards Park
+-87.65048372920063,41.880180768372014,"115 S. Sangamon St Chicago, IL 60602",Bartelme Park - Spray Feature,Chicago_Park_Facility_4214,1873,Ward 25,2276,Bartelme Park
+-87.59175280172971,41.78250050917303,"6156 S Dorchester Ave Chicago, IL 60637",Beehive Park - Spray Feature,Chicago_Park_Facility_16714,1884,Ward 20,2110,Beehive Park
+-87.79611639358234,41.93475064714307,"3020 N Oak Park Ave Chicago, IL 60634",Bell Park - Spray Feature,Chicago_Park_Facility_173,1892,Ward 36,1976,Bell Park
+-87.55605976989115,41.733141037999374,"8930 S Muskegon Ave Chicago, IL 60617",Bessemer Park - Pool (Outdoor),Chicago_Park_Facility_191,1883,Ward 7,1918,Bessemer Park
+-87.55596208063635,41.732001265882815,"8930 S Muskegon Ave Chicago, IL 60617",Bessemer Park - Spray Feature,Chicago_Park_Facility_193,1883,Ward 7,1918,Bessemer Park
+-87.6851309118041,41.70976933360532,"2460 W 102nd St Chicago, IL 60655",Beverly Park - Spray Feature,Chicago_Park_Facility_208,1885,Ward 19,2058,Beverly Park
+-87.59275859240562,41.79197402883632,"5641 S Kenwood Ave Chicago, IL 60637",Bixler Park - Spray Feature,Chicago_Park_Facility_217,1866,Ward 5,2384,Bixler Park
+-87.75219884916808,41.92285391891591,"2318 N Lavergne Ave Chicago, IL 60639",Blackhawk Park - Pool (Indoor),Chicago_Park_Facility_221,1892,Ward 36,1977,Blackhawk Park
+-87.75215221132703,41.92311092959164,"2318 N Lavergne Ave Chicago, IL 60639",Blackhawk Park - Spray Feature,Chicago_Park_Facility_226,1892,Ward 36,1977,Blackhawk Park
+-87.67108683234959,41.68449782225446,"1800 W 115th St Chicago, IL 60643",Blackwelder Park - Spray Feature,Chicago_Park_Facility_16698,1859,Ward 34,2143,Blackwelder Park
+-87.65322547775816,41.83841988976816,"3044 S Bonfield St Chicago, IL 60608",Bosley Park - Spray Feature,Chicago_Park_Facility_255,1881,Ward 11,2331,Bosley Park
+-87.65506704556644,41.72775251373266,"1246 W 92nd St Chicago, IL 60620",Brainerd Park - Spray Feature,Chicago_Park_Facility_272,1878,Ward 21,2004,Brainerd Park
+-87.66073246792247,41.96281067566866,"4437 N Magnolia Ave Chicago, IL 60640",Broncho Billy Park - Spray Feature,Chicago_Park_Facility_295,1860,Ward 46,2227,Broncho Billy Park
+-87.59961070840042,41.812018410720164,"4542 S Greenwood Ave Chicago, IL 60653",Brooks (Gwendolyn) Park - Spray Feature,Chicago_Park_Facility_297,1882,Ward 4,2134,Brooks (Gwendolyn) Park
+-87.81025490158324,42.00945092680252,"7046 N Harlem Ave Chicago, IL 60631",Brooks (Oscar) Park - Spray Feature,Chicago_Park_Facility_305,1865,Ward 41,1947,Brooks (Oscar) Park
+-87.60887154985167,41.73991686610233,"644 E 86th St Chicago, IL 60619",Brown Memorial Park - Spray Feature,Chicago_Park_Facility_312,1902,Ward 6,2088,Brown Memorial Park
+-87.60620723294548,41.83911375476233,"425 E Mcfetridge Dr Chicago, IL 60616",Burnham Park - Beach 1,Chicago_Park_Facility_324,NA,NA,1931,Burnham Park
+-87.59532974850458,41.8204067043031,"425 E Mcfetridge Dr Chicago, IL 60616",Burnham Park - Beach 2,Chicago_Park_Facility_325,NA,NA,1931,Burnham Park
+-87.60643745084104,41.83780083782034,"425 E Mcfetridge Dr Chicago, IL 60616",Burnham Park - Spray Feature,Chicago_Park_Facility_18934,NA,NA,1931,Burnham Park
+-87.5976235152241,41.72455623787916,"9400 S Greenwood Ave Chicago, IL 60619",Burnside Park - Spray Feature,Chicago_Park_Facility_338,1907,Ward 8,2135,Burnside Park
+-87.65452515232998,41.97196805575619,"4913 N Sheridan Rd Chicago, IL 60640",Buttercup Park - Spray Feature,Chicago_Park_Facility_16715,1872,Ward 48,2150,Buttercup Park
+-87.69643220325453,41.95279104620146,"3843 N California Ave Chicago, IL 60618",California Park - Pool (Outdoor),Chicago_Park_Facility_345,1858,Ward 33,2011,California Park
+-87.69792184643445,41.95025777303786,"3843 N California Ave Chicago, IL 60618",California Park - Spray Feature,Chicago_Park_Facility_347,1858,Ward 33,2011,California Park
+-87.52852703402193,41.71514570266037,"9801 S Avenue G Chicago, IL 60617",Calumet Park - Beach 1,Chicago_Park_Facility_353,1891,Ward 10,1917,Calumet Park
+-87.52486664153945,41.71818933667126,"9801 S Avenue G Chicago, IL 60617",Calumet Park - Beach 2,Chicago_Park_Facility_354,1891,Ward 10,1917,Calumet Park
+-87.5995904306542,41.65478010013729,"939 E 132nd St Chicago, IL 60627",Carver Park - Pool (Indoor),Chicago_Park_Facility_399,1870,Ward 9,2059,Carver Park
+-87.72770450073347,41.81431310766498,"4330 S Kedvale Ave Chicago, IL 60632",Catalpa Park - Spray Feature,Chicago_Park_Facility_408,1890,Ward 14,2142,Catalpa Park
+-87.65763813394864,41.97875457988567,"5315 N Winthrop Ave Chicago, IL 60640",Cedar Park - Spray Feature,Chicago_Park_Facility_410,1872,Ward 48,2495,Cedar Park
+-87.66901632437047,41.96816072916222,"4725 N Ashland Av Chicago, IL 60640",Chase Park - Pool (Outdoor),Chicago_Park_Facility_418,1874,Ward 47,1966,Chase Park
+-87.70530627292077,42.004100016572096,"6758 N Sacramento Ave Chicago, IL 60645",Chippewa Park - Spray Feature,Chicago_Park_Facility_431,1889,Ward 50,2000,Chippewa Park
+-87.76228923275931,41.94261327376238,"3420 N Long Ave Chicago, IL 60641",Chopin Park - Spray Feature,Chicago_Park_Facility_440,1895,Ward 30,1991,Chopin Park
+-87.64959593374414,41.96320260854152,"4501 N Clarendon Ave Chicago, IL 60640",Clarendon Community Center Park - Spray Feature,Chicago_Park_Facility_459,1860,Ward 46,2312,Clarendon Community Center Park
+-87.74160838254562,41.87617870684955,"4615 W Jackson Blvd Chicago, IL 60644",Clark (John) Park - Pool (Outdoor),Chicago_Park_Facility_466,1896,Ward 28,2333,Clark (John) Park
+-87.61576531565727,41.73976352872584,"361 E 85th St Chicago, IL 60619",Cole Park - Spray Feature,Chicago_Park_Facility_492,1902,Ward 6,2073,Cole Park
+-87.60361581845258,41.796410173501236,"900 E 54th Pl Chicago, IL 60615",Coleman Park - Spray Feature,Chicago_Park_Facility_494,1866,Ward 5,2091,Coleman Park
+-87.65723976113829,42.00448794956487,"1040 W Columbia Ave Chicago, IL 60626",Doria Beach Park - Beach,Chicago_Park_Facility_496,1876,Ward 49,2475,Doria Beach Park
+-87.76546818399099,41.873657139529925,"500 S Central Ave Chicago, IL 60644",Columbus Park - Pool (Outdoor),Chicago_Park_Facility_512,1897,Ward 29,2021,Columbus Park
+-87.76516125436467,41.873255202462694,"500 S Central Ave Chicago, IL 60644",Columbus Park - Spray Feature,Chicago_Park_Facility_514,1897,Ward 29,2021,Columbus Park
+-87.6736515562148,41.896541355839354,"1845 W Rice St Chicago, IL 60622",Commercial Club Park - Spray Feature,Chicago_Park_Facility_527,1893,Ward 1,2316,Commercial Club Park
+-87.67008664338648,41.802769339936845,"1809 W 50th St Chicago, IL 60609",Cornell Square Park - Pool (Outdoor),Chicago_Park_Facility_542,1884,Ward 20,1911,Cornell Square Park
+-87.67006335160643,41.80180752010933,"1809 W 50th St Chicago, IL 60609",Cornell Square Park - Spray Feature,Chicago_Park_Facility_544,1884,Ward 20,1911,Cornell Square Park
+-87.75825884928081,41.92835478306127,"2611 N Lockwood Ave Chicago, IL 60639",Cragin Park - Spray Feature,Chicago_Park_Facility_560,1888,Ward 31,1986,Cragin Park
+-87.72781212460619,41.86006108704,"1516 S Karlov Ave Chicago, IL 60623",Crawford Park - Spray Feature,Chicago_Park_Facility_564,1864,Ward 24,2131,Crawford Park
+-87.66682352016932,41.813127225509824,"4430 S Marshfield Ave Chicago, IL 60609",Davis (Nathan) Square Park - Pool (Outdoor),Chicago_Park_Facility_589,1904,Ward 15,1920,Davis (Nathan) Square Park
+-87.66731139246653,41.812596169299226,"4430 S Marshfield Ave Chicago, IL 60609",Davis (Nathan) Square Park - Spray Feature,Chicago_Park_Facility_591,1904,Ward 15,1920,Davis (Nathan) Square Park
+-87.67401081013345,41.74711843728796,"8040 S Damen Av Chicago, IL 60620",Dawes Park - Spray Feature,Chicago_Park_Facility_605,1875,Ward 18,2045,Dawes Park
+-87.67049864214809,41.90677827432709,"1356 N Dean St Chicago, IL 60622",Dean Park - Spray Feature,Chicago_Park_Facility_609,1893,Ward 1,2334,Dean Park
+-87.75195719124122,41.95542363411714,"4117 N Lavergne Ave Chicago, IL 60641",Dickinson Park - Spray Feature,Chicago_Park_Facility_616,1886,Ward 45,2454,Dickinson Park
+-87.6949115686993,41.87121208760391,"2734 W Polk St Chicago, IL 60612",Dogwood Park - Spray Feature,Chicago_Park_Facility_620,1896,Ward 28,2123,Dogwood Park
+-87.66042342840318,41.94198528879457,"1230 W School St Chicago, IL 60657",Donahue Park - Spray Feature,Chicago_Park_Facility_0,1868,Ward 44,2302,Donahue Park
+-87.64792800928576,41.828275717032085,"3620 S Lituanica Ave Chicago, IL 60609",Donovan Park - Spray Feature,Chicago_Park_Facility_624,1881,Ward 11,2336,Donovan Park
+-87.69999720405664,41.86279554773234,"1401 S Sacramento Dr Chicago, IL 60623",Douglas Park - Pool (Outdoor),Chicago_Park_Facility_648,NA,NA,2030,Douglas Park
+-87.6961897785649,41.8567564841514,"1401 S Sacramento Dr Chicago, IL 60623",Douglas Park - Spray Feature 1,Chicago_Park_Facility_654,NA,NA,2030,Douglas Park
+-87.70199654866141,41.8562936066738,"1401 S Sacramento Dr Chicago, IL 60623",Douglas Park - Spray Feature 2,Chicago_Park_Facility_655,NA,NA,2030,Douglas Park
+-87.6214337679441,41.838632729462596,"200 E 31st St Chicago, IL 60616",Dunbar Park - Spray Feature,Chicago_Park_Facility_16696,1882,Ward 4,2071,Dunbar Park
+-87.78279206224161,41.96636364144766,"4640 N Melvina Ave Chicago, IL 60630",Dunham Park - Spray Feature,Chicago_Park_Facility_688,1877,Ward 38,2062,Dunham Park
+-87.72867705958103,41.73977301024788,"8441 S Kolin Ave Chicago, IL 60652",Durkin Park - Spray Feature,Chicago_Park_Facility_700,1875,Ward 18,2072,Durkin Park
+-87.65395281211096,41.854094804950364,"1119 W Cullerton St Chicago, IL 60608",Dvorak Park - Pool (Outdoor),Chicago_Park_Facility_710,1873,Ward 25,2028,Dvorak Park
+-87.65349774037193,41.85409878281101,"1119 W Cullerton St Chicago, IL 60608",Dvorak Park - Water Playground,Chicago_Park_Facility_713,1873,Ward 25,2028,Dvorak Park
+-87.66201419934214,41.89656702523902,"1330 W Chicago Ave Chicago, IL 60622",Eckhart Park - Pool (Indoor),Chicago_Park_Facility_721,1905,Ward 27,2020,Eckhart Park
+-87.660456264145,41.89661189121275,"1330 W Chicago Ave Chicago, IL 60622",Eckhart Park - Spray Feature,Chicago_Park_Facility_725,1905,Ward 27,2020,Eckhart Park
+-87.61117453966249,41.83075697404529,"600 E 37th St Chicago, IL 60653",Ellis Park - Pool (Indoor),Chicago_Park_Facility_0,1882,Ward 4,2456,Ellis Park
+-87.61039510713769,41.82916096713056,"600 E 37th St Chicago, IL 60653",Ellis Park - Spray Feature,Chicago_Park_Facility_8374,1882,Ward 4,2456,Ellis Park
+-87.67608740879679,41.99472151086999,"1820 W Granville Ave Chicago, IL 60660",Emmerson Park - Spray Feature,Chicago_Park_Facility_751,1906,Ward 40,1967,Emmerson Park
+-87.6377354484109,41.716064782733845,"9800 S Parnell Ave Chicago, IL 60628",Euclid Park - Spray Feature,Chicago_Park_Facility_762,1859,Ward 34,1950,Euclid Park
+-87.66303859684518,42.01708141542725,"1300 W Fargo Ave Chicago, IL 60626",Fargo Beach Park - Beach,Chicago_Park_Facility_766,1876,Ward 49,2476,Fargo Beach Park
+-87.67877455472127,41.93985517028956,"2012 W Belmont Ave Chicago, IL 60618",Fellger Park - Spray Feature,Chicago_Park_Facility_17342,1887,Ward 32,2397,Fellger Park
+-87.63859405345943,41.70396510925143,"10436 S Wallace St Chicago, IL 60628",Fernwood Park - Pool (Indoor),Chicago_Park_Facility_773,1859,Ward 34,1949,Fernwood Park
+-87.63980729651519,41.704702781770145,"10436 S Wallace St Chicago, IL 60628",Fernwood Park - Spray Feature,Chicago_Park_Facility_776,1859,Ward 34,1949,Fernwood Park
+-87.72387153533178,41.97471281727409,"5100 N Ridgeway Ave Chicago, IL 60625",Field Park - Spray Feature,Chicago_Park_Facility_786,1899,Ward 39,1936,Field Park
+-87.69206328034448,41.91502602245258,"2554 W Moffat St Chicago, IL 60647",Flower Park - Spray Feature,Chicago_Park_Facility_17339,1893,Ward 1,2189,Flower Park
+-87.65715782960926,41.864656159240795,"1313 S Throop St Chicago, IL 60608",Fosco Park - Pool (Indoor),Chicago_Park_Facility_801,1873,Ward 25,2337,Fosco Park
+-87.65810508941874,41.864910025541626,"1313 S Throop St Chicago, IL 60608",Fosco Park - Water Playground,Chicago_Park_Facility_804,1873,Ward 25,2337,Fosco Park
+-87.66018366841568,41.74211622180509,"1400 W 84th St Chicago, IL 60620",Foster Park - Pool (Indoor),Chicago_Park_Facility_812,1878,Ward 21,1930,Foster Park
+-87.66086473267106,41.74178522279432,"1400 W 84th St Chicago, IL 60620",Foster Park - Water Playground,Chicago_Park_Facility_828,1878,Ward 21,1930,Foster Park
+-87.7330324013445,41.8617451807788,"1449 S Kolin Ave Chicago, IL 60623",Franklin Park - Pool (Outdoor),Chicago_Park_Facility_837,1864,Ward 24,2014,Franklin Park
+-87.73272064237086,41.86155987229241,"1449 S Kolin Ave Chicago, IL 60623",Franklin Park - Water Playground,Chicago_Park_Facility_841,1864,Ward 24,2014,Franklin Park
+-87.6353929965519,41.810725550231794,"331 W 45th St Chicago, IL 60609",Fuller Park - Pool (Outdoor),Chicago_Park_Facility_848,1861,Ward 3,1910,Fuller Park
+-87.63379715944451,41.81172611703091,"331 W 45th St Chicago, IL 60609",Fuller Park - Spray Feature,Chicago_Park_Facility_850,1861,Ward 3,1910,Fuller Park
+-87.6849452948883,41.79276501630365,"2415 W 55th St Chicago, IL 60629",Gage Park - Pool (Outdoor),Chicago_Park_Facility_863,NA,NA,1927,Gage Park
+-87.68522998917592,41.792999342976366,"2415 W 55th St Chicago, IL 60629",Gage Park - Spray Feature,Chicago_Park_Facility_865,NA,NA,1927,Gage Park
+-87.76932223686829,41.91241689179718,"5729 W Bloomingdale Ave Chicago, IL 60639",Galewood Park - Spray Feature,Chicago_Park_Facility_884,1897,Ward 29,1985,Galewood Park
+-87.71665627901461,41.88267349332221,"100 N Central Park Dr Chicago, IL 60624",Garfield Park - Pool (Outdoor),Chicago_Park_Facility_904,1896,Ward 28,2016,Garfield Park
+-87.71179549383065,41.883266101444924,"100 N Central Park Dr Chicago, IL 60624",Garfield Park - Spray Feature 1,Chicago_Park_Facility_908,1896,Ward 28,2016,Garfield Park
+-87.7177440445377,41.87561297137758,"100 N Central Park Dr Chicago, IL 60624",Garfield Park - Spray Feature 2,Chicago_Park_Facility_4015,1896,Ward 28,2016,Garfield Park
+-87.6506969392297,41.95242834667793,"825 W Sheridan Rd Chicago, IL 60613",Gill Park - Pool (Indoor),Chicago_Park_Facility_930,1860,Ward 46,2136,Gill Park
+-87.77304737236254,41.979370487528854,"5421 N Menard Ave Chicago, IL 60630",Gladstone Park - Spray Feature,Chicago_Park_Facility_937,1886,Ward 45,1962,Gladstone Park
+-87.7088978995411,41.875945576145085,"3307 W Gladys Ave Chicago, IL 60624",Gladys Park - Spray Feature,Chicago_Park_Facility_940,1896,Ward 28,2398,Gladys Park
+-87.61105648940178,41.65767981938165,"500 E 130th St Chicago, IL 60627",Golden Gate Park - Spray Feature,Chicago_Park_Facility_945,1870,Ward 9,2087,Golden Gate Park
+-87.7348157389732,41.975885538701796,"4222 W Foster Ave Chicago, IL 60630",Gompers Park - Pool (Outdoor),Chicago_Park_Facility_954,1899,Ward 39,1935,Gompers Park
+-87.73480217310896,41.97618944375209,"4222 W Foster Ave Chicago, IL 60630",Gompers Park - Spray Feature,Chicago_Park_Facility_957,1899,Ward 39,1935,Gompers Park
+-87.60047363018646,41.75630172397289,"7655 S Ingleside Ave Chicago, IL 60619",Grand Crossing Park - Pool (Outdoor),Chicago_Park_Facility_973,1907,Ward 8,1921,Grand Crossing Park
+-87.60114754542559,41.755276459266476,"7655 S Ingleside Ave Chicago, IL 60619",Grand Crossing Park - Spray Feature,Chicago_Park_Facility_975,1907,Ward 8,1921,Grand Crossing Park
+-87.66100840497595,41.70791610484753,"1518 W 102nd Pl Chicago, IL 60643",Graver Park - Water Playground,Chicago_Park_Facility_1031,1885,Ward 19,2006,Graver Park
+-87.69678169219408,41.99101227055737,"2650 W Peterson Ave Chicago, IL 60659",Green Briar Park - Spray Feature,Chicago_Park_Facility_1039,1906,Ward 40,2010,Green Briar Park
+-87.73328968978186,41.91188333822728,"1729 N Kildare Ave Chicago, IL 60639",Greenebaum Park - Spray Feature,Chicago_Park_Facility_1045,1867,Ward 26,1987,Greenebaum Park
+-87.66262925497095,42.0158813026311,"1234 W Jarvis Ave Chicago, IL 60626",Griffin Park - Beach,Chicago_Park_Facility_1373,1876,Ward 49,2479,Griffin Park
+-87.69599465907088,41.92518578572053,"2402 N Washtenaw Ave Chicago, IL 60647",Haas Park - Spray Feature,Chicago_Park_Facility_1051,1893,Ward 1,2339,Haas Park
+-87.77805444074106,41.7807511913195,"6140 S Melvina Ave Chicago, IL 60638",Hale Park - Pool (Outdoor),Chicago_Park_Facility_1056,1869,Ward 13,2040,Hale Park
+-87.77835685833746,41.78101449582147,"6140 S Melvina Ave Chicago, IL 60638",Hale Park - Water Playground,Chicago_Park_Facility_1062,1869,Ward 13,2040,Hale Park
+-87.6359054976673,41.761924615184846,"513 W 72nd St Chicago, IL 60621",Hamilton Park - Pool (Outdoor),Chicago_Park_Facility_1072,1902,Ward 6,1915,Hamilton Park
+-87.63660514607702,41.76312824964004,"513 W 72nd St Chicago, IL 60621",Hamilton Park - Spray Feature,Chicago_Park_Facility_1074,1902,Ward 6,1915,Hamilton Park
+-87.68022837813001,41.93736144738786,"3035 N Hoyne Ave Chicago, IL 60618",Hamlin Park - Pool (Outdoor),Chicago_Park_Facility_1093,1887,Ward 32,1969,Hamlin Park
+-87.60502579205311,41.78187183230208,"6200 S Drexel Ave Chicago, IL 60637",Harris (Harriet) Park - Pool (Indoor),Chicago_Park_Facility_1106,1884,Ward 20,2259,Harris (Harriet) Park
+-87.63986646345971,41.77211471569092,"6701 S Lowe Ave Chicago, IL 60621",Harris (Ryan) Memorial Park - Spray Feature,Chicago_Park_Facility_1109,NA,NA,2467,Harris (Ryan) Memorial Park
+-87.67223207469408,41.85679495419466,"1824 S Wood St Chicago, IL 60608",Harrison Park - Pool (Indoor) 1,Chicago_Park_Facility_1116,1873,Ward 25,2025,Harrison Park
+-87.59550519058782,41.81395596484387,"4464 S Oakenwald Ave Chicago, IL 60653",Harsh Park - Spray Feature,Chicago_Park_Facility_1129,1882,Ward 4,2107,Harsh Park
+-87.65674341273439,42.00238439693291,"1040 W Albion Ave Chicago, IL 60626",Hartigan Beach Park - Beach,Chicago_Park_Facility_1130,1876,Ward 49,2474,Hartigan Beach Park
+-87.69732977103203,41.739024629700424,"2936 W 85th St Chicago, IL 60652",Hayes Park - Pool (Indoor),Chicago_Park_Facility_1137,1875,Ward 18,2048,Hayes Park
+-87.69587208356342,41.74196656105788,"2936 W 85th St Chicago, IL 60652",Hayes Park - Spray Feature,Chicago_Park_Facility_1143,1875,Ward 18,2048,Hayes Park
+-87.66869301224517,41.78689225048245,"5839 S Wood St Chicago, IL 60636",Hermitage Park - Spray Feature,Chicago_Park_Facility_1152,1904,Ward 15,2317,Hermitage Park
+-87.73948819629696,41.92244670541852,"2240 N Kilbourn Ave Chicago, IL 60639",Hermosa Park - Spray Feature,Chicago_Park_Facility_1158,1892,Ward 36,1980,Hermosa Park
+-87.82870557319735,41.94325490155655,"8029 W Forest Preserve Ave Chicago, IL 60634",Hiawatha Park - Spray Feature,Chicago_Park_Facility_1168,1877,Ward 38,2035,Hiawatha Park
+-87.59903135083603,41.76365095610565,"7221 S Dobson Ave Chicago, IL 60619",Hoard Park - Spray Feature,Chicago_Park_Facility_1180,1866,Ward 5,2152,Hoard Park
+-87.60324808038456,41.820554719770556,"4052 S Ellis Ave Chicago, IL 60653",Holly Park - Spray Feature,Chicago_Park_Facility_1182,1882,Ward 4,2108,Holly Park
+-87.7111658226867,41.98890841427951,"3312 W Thorndale Ave Chicago, IL 60659",Hollywood Park - Spray Feature,Chicago_Park_Facility_1187,1899,Ward 39,1952,Hollywood Park
+-87.68509851625976,41.92198798083991,"2200 N Oakley Ave Chicago, IL 60647",Holstein Park - Pool (Outdoor),Chicago_Park_Facility_1190,1887,Ward 32,2015,Holstein Park
+-87.68486454664419,41.922149271021894,"2200 N Oakley Ave Chicago, IL 60647",Holstein Park - Spray Feature,Chicago_Park_Facility_1193,1887,Ward 32,2015,Holstein Park
+-87.71409760169402,41.869541961714965,"3517 W Arthington St Chicago, IL 60624",Homan Square Community Center Park - Pool (Indoor),Chicago_Park_Facility_2189,1864,Ward 24,2250,Homan Square Community Center Park
+-87.70239909058849,41.875640959110484,"3035 W Van Buren St Chicago, IL 60612",Horan Park - Spray Feature,Chicago_Park_Facility_1199,1896,Ward 28,2341,Horan Park
+-87.7204411789694,41.86197650116683,"1422 S Hamlin Ave Chicago, IL 60623",Hornbeam Park - Spray Feature,Chicago_Park_Facility_1201,1864,Ward 24,2128,Hornbeam Park
+-87.66391454785986,42.018863532398186,"1300 W Howard St Chicago, IL 60626",Howard Beach Park - Beach,Chicago_Park_Facility_1229,1876,Ward 49,2478,Howard Beach Park
+-87.70370289262134,41.90636508140679,"1400 N Humboldt Dr Chicago, IL 60622",Humboldt Park - Beach,Chicago_Park_Facility_1245,1867,Ward 26,2031,Humboldt Park
+-87.70366868774589,41.89872908358919,"1400 N Humboldt Dr Chicago, IL 60622",Humboldt Park - Pool (Outdoor),Chicago_Park_Facility_1267,1867,Ward 26,2031,Humboldt Park
+-87.6995506013907,41.90803699174365,"1400 N Humboldt Dr Chicago, IL 60622",Humboldt Park - Spray Feature,Chicago_Park_Facility_1273,1867,Ward 26,2031,Humboldt Park
+-87.70335160347153,41.89850765366513,"1400 N Humboldt Dr Chicago, IL 60622",Humboldt Park - Water Playground,Chicago_Park_Facility_1274,1867,Ward 26,2031,Humboldt Park
+-87.70360369913672,41.89850275923948,"1400 N Humboldt Dr Chicago, IL 60622",Humboldt Park - Water Slide,Chicago_Park_Facility_1283,1867,Ward 26,2031,Humboldt Park
+-87.72476132800348,41.952970609924094,"3945 N Springfield Ave Chicago, IL 60618",Independence Park - Pool (Indoor),Chicago_Park_Facility_1288,1886,Ward 45,1956,Independence Park
+-87.72472019664539,41.95347862687527,"3945 N Springfield Ave Chicago, IL 60618",Independence Park - Spray Feature,Chicago_Park_Facility_1293,1886,Ward 45,1956,Independence Park
+-87.69268916591533,42.00993740537251,"2500 W Lunt Ave Chicago, IL 60645",Indian Boundary Park - Spray Feature,Chicago_Park_Facility_1301,1889,Ward 50,1998,Indian Boundary Park
+-87.77888154292398,41.99310831054473,"6010 W Matson Ave Chicago, IL 60646",Indian Road Park - Spray Feature,Chicago_Park_Facility_1309,1899,Ward 39,2344,Indian Road Park
+-87.57388546491549,41.78211164039568,"6401 S Stony Island Ave Chicago, IL 60637",Jackson (Andrew) Park - Beach 1,Chicago_Park_Facility_1313,1866,Ward 5,1925,Jackson (Andrew) Park
+-87.57897521479163,41.79089673512786,"6401 S Stony Island Ave Chicago, IL 60637",Jackson (Andrew) Park - Beach 2,Chicago_Park_Facility_1314,1866,Ward 5,1925,Jackson (Andrew) Park
+-87.57413818329135,41.781541838779034,"6401 S Stony Island Ave Chicago, IL 60637",Jackson (Andrew) Park - Spray Feature,Chicago_Park_Facility_4197,1866,Ward 5,1925,Jackson (Andrew) Park
+-87.64214140501406,41.85905671007587,"1630 S Jefferson St Chicago, IL 60616",Jefferson (Thomas) Park - Spray Feature,Chicago_Park_Facility_6454,NA,NA,2406,Jefferson (Thomas) Park
+-87.76384542958131,41.96870707461643,"4822 N Long Ave Chicago, IL 60630",Jefferson (Thomas) Memorial Park - Pool (Outdoor),Chicago_Park_Facility_1379,1886,Ward 45,1963,Jefferson (Thomas) Memorial Park
+-87.76328315336758,41.9683029011157,"4822 N Long Ave Chicago, IL 60630",Jefferson (Thomas) Memorial Park - Spray Feature,Chicago_Park_Facility_1381,1886,Ward 45,1963,Jefferson (Thomas) Memorial Park
+-87.72091584751396,41.965927910658216,"4600 N Lawndale Ave Chicago, IL 60625",Jensen Park - Spray Feature,Chicago_Park_Facility_1391,1903,Ward 35,1955,Jensen Park
+-87.65491393752951,41.928497197179105,"1023 W Wrightwood Ave Chicago, IL 60614",Jonquil Park - Spray Feature,Chicago_Park_Facility_16695,1898,Ward 43,2487,Jonquil Park
+-87.66522105245443,42.022444832333086,"7751 N Eastlake Ter Chicago, IL 60626",Juneway Beach Park - Beach,Chicago_Park_Facility_5822,1876,Ward 49,2480,Juneway Beach Park
+-87.6669664967417,41.94865287074572,"3656 N Greenview Ave Chicago, IL 60613",Juniper Park - Spray Feature,Chicago_Park_Facility_1399,1868,Ward 44,2157,Juniper Park
+-87.73056488456443,41.90676584255758,"4140 W Hirsch St Chicago, IL 60651",Kedvale Park - Spray Feature,Chicago_Park_Facility_1403,1867,Ward 26,2345,Kedvale Park
+-87.73710886688075,41.93007720554909,"4438 W Wrightwood Ave Chicago, IL 60639",Kelvyn Park - Spray Feature,Chicago_Park_Facility_1424,1888,Ward 31,1981,Kelvyn Park
+-87.73379674602701,41.93553367775744,"2945 N Kenosha Ave Chicago, IL 60641",Ken-Well Park - Spray Feature,Chicago_Park_Facility_1457,1888,Ward 31,2348,Ken-Well Park
+-87.68204631352083,41.68711031448866,"11320 S Western Ave Chicago, IL 60655",Kennedy Park - Pool (Outdoor),Chicago_Park_Facility_1434,1885,Ward 19,1941,Kennedy Park
+-87.6822868280298,41.68767790909178,"11320 S Western Ave Chicago, IL 60655",Kennedy Park - Spray Feature,Chicago_Park_Facility_9016,1885,Ward 19,1941,Kennedy Park
+-87.61612132837875,41.67968491146266,"345 E 118th St Chicago, IL 60628",Kensington Park - Spray Feature,Chicago_Park_Facility_1450,1870,Ward 9,2347,Kensington Park
+-87.59293372811493,41.8058708447778,"1330 E 50th St Chicago, IL 60615",Kenwood Comm. Park - Spray Feature,Chicago_Park_Facility_1465,1882,Ward 4,2318,Kenwood Comm. Park
+-87.65430925924568,41.7543824168585,"1212 W 77th St Chicago, IL 60620",King Park - Spray Feature,Chicago_Park_Facility_1486,1863,Ward 17,2115,King Park
+-87.72381597294235,41.931511414338495,"2732 N Avers Ave Chicago, IL 60647",Kosciuszko Park - Pool (Indoor),Chicago_Park_Facility_1497,1888,Ward 31,1975,Kosciuszko Park
+-87.724093549671,41.93032247535328,"2732 N Avers Ave Chicago, IL 60647",Kosciuszko Park - Spray Feature,Chicago_Park_Facility_1503,1888,Ward 31,1975,Kosciuszko Park
+-87.53686304571956,41.702910881522946,"10558 S Avenue L Chicago, IL 60617",Krause Park - Spray Feature,Chicago_Park_Facility_1506,1891,Ward 10,2382,Krause Park
+-87.66629584102546,41.833107212222615,"1635 W 33rd Pl Chicago, IL 60608",Kucinski- Murphy Park - Spray Feature,Chicago_Park_Facility_1508,1871,Ward 12,2367,Kucinski- Murphy Park
+-87.75511789738208,41.90513788088653,"1333 N Laramie Ave Chicago, IL 60651",La Follette Park - Pool (Indoor),Chicago_Park_Facility_1513,1900,Ward 37,2013,La Follette Park
+-87.75158374027595,41.90446931259027,"1333 N Laramie Ave Chicago, IL 60651",La Follette Park - Water Playground,Chicago_Park_Facility_1520,1900,Ward 37,2013,La Follette Park
+-87.70165000664363,41.840989247304826,"2800 S Sacramento Ave Chicago, IL 60608",La Villita Park - Spray Feature,Chicago_Park_Facility_10935,1871,Ward 12,2286,La Villita Park
+-87.65424946466936,41.989753217597254,"1000 W Thorndale Ave Chicago, IL 60660",Lane Beach Park - Beach,Chicago_Park_Facility_1537,1872,Ward 48,2484,Lane Beach Park
+-87.75238206212649,41.77658865635234,"5210 W 64th St Chicago, IL 60638",Lawler Park - Spray Feature,Chicago_Park_Facility_1550,1869,Ward 13,2319,Lawler Park
+-87.75047848755545,41.812815153023784,"5116 W 44th St Chicago, IL 60638",Le Claire- Hearst Park - Spray Feature,Chicago_Park_Facility_0,1880,Ward 22,2097,Le Claire- Hearst Park
+-87.6615682355854,42.013133861649166,"1222 W Touhy Ave Chicago, IL 60626",Leone Beach Park - Beach,Chicago_Park_Facility_1577,1876,Ward 49,2321,Leone Beach Park
+-87.76194100838433,41.88842080803086,"462 N Pine Ave Chicago, IL 60644",Levin Park - Spray Feature,Chicago_Park_Facility_1588,1900,Ward 37,2463,Levin Park
+-87.7114676937495,41.84765140483658,"2410 S Trumbull Ave Chicago, IL 60623",Limas Park - Spray Feature,Chicago_Park_Facility_1591,1880,Ward 22,2371,Limas Park
+-87.61298549923703,41.89343568896373,"200 W Fullerton Pkwy Chicago, IL 60614",Lincoln Park - Beach 1,Chicago_Park_Facility_1601,NA,NA,1965,Lincoln Park
+-87.62474971373115,41.91448425679995,"200 W Fullerton Pkwy Chicago, IL 60614",Lincoln Park - Beach 2,Chicago_Park_Facility_1602,NA,NA,1965,Lincoln Park
+-87.63587301657708,41.96549831236838,"200 W Fullerton Pkwy Chicago, IL 60614",Lincoln Park - Beach 3,Chicago_Park_Facility_1603,NA,NA,1965,Lincoln Park
+-87.64944622891974,41.978473378966385,"200 W Fullerton Pkwy Chicago, IL 60614",Lincoln Park - Beach 4,Chicago_Park_Facility_1604,NA,NA,1965,Lincoln Park
+-87.65174163461757,41.9860259321962,"200 W Fullerton Pkwy Chicago, IL 60614",Lincoln Park - Beach 5,Chicago_Park_Facility_1605,NA,NA,1965,Lincoln Park
+-87.62279355072518,41.90289003660338,"200 W Fullerton Pkwy Chicago, IL 60614",Lincoln Park - Beach 6,Chicago_Park_Facility_1606,NA,NA,1965,Lincoln Park
+-87.64881648606777,41.97762145867948,"200 W Fullerton Pkwy Chicago, IL 60614",Lincoln Park - Spray Feature 1,Chicago_Park_Facility_1648,NA,NA,1965,Lincoln Park
+-87.64950666505337,41.97268314484182,"200 W Fullerton Pkwy Chicago, IL 60614",Lincoln Park - Spray Feature 2,Chicago_Park_Facility_17657,NA,NA,1965,Lincoln Park
+-87.63725347859612,41.93855754748551,"200 W Fullerton Pkwy Chicago, IL 60614",Lincoln Park - Spray Feature 3,Chicago_Park_Facility_17344,NA,NA,1965,Lincoln Park
+-87.65372104165044,41.984732041745936,"200 W Fullerton Pkwy Chicago, IL 60614",Lincoln Park - Spray Feature 4,Chicago_Park_Facility_0,NA,NA,1965,Lincoln Park
+-87.67460423464198,41.78305576158132,"6054 S Damen Ave Chicago, IL 60636",Lindblom Park - Pool (Outdoor),Chicago_Park_Facility_1687,1901,Ward 16,2049,Lindblom Park
+-87.72591484565285,41.901923994342326,"1139 N Pulaski Rd Chicago, IL 60651",Linden Park - Spray Feature,Chicago_Park_Facility_1695,1900,Ward 37,2100,Linden Park
+-87.68161264734213,41.80191704074006,"2251 W 50th Pl Chicago, IL 60609",Little Venice Park - Spray Feature,Chicago_Park_Facility_1697,1904,Ward 15,2361,Little Venice Park
+-87.6411684354096,41.799672100481885,"5203 S Lowe Ave Chicago, IL 60609",Lowe Park - Spray Feature,Chicago_Park_Facility_1704,1861,Ward 3,2350,Lowe Park
+-87.65909651315154,42.00976786582215,"1230 W Greenleaf Ave Chicago, IL 60626",Loyola Park - Beach,Chicago_Park_Facility_1707,1876,Ward 49,1974,Loyola Park
+-87.70710486583853,41.872950138355215,"3228 W Flournoy St Chicago, IL 60624",Magnolia Park - Spray Feature,Chicago_Park_Facility_1723,1864,Ward 24,2114,Magnolia Park
+-87.55088906404025,41.656450182748785,"3035 E 130th St Chicago, IL 60633",Mann Park - Pool (Indoor),Chicago_Park_Facility_1736,1891,Ward 10,1923,Mann Park
+-87.5505073416739,41.65648219024132,"3035 E 130th St Chicago, IL 60633",Mann Park - Spray Feature,Chicago_Park_Facility_1744,1891,Ward 10,1923,Mann Park
+-87.69125094531356,41.91112872860354,"1640 N Maplewood Ave Chicago, IL 60647",Maplewood Park - Spray Feature,Chicago_Park_Facility_1754,1893,Ward 1,2351,Maplewood Park
+-87.70879392116727,41.77093548367727,"6734 S Kedzie Ave Chicago, IL 60629",Marquette Park - Spray Feature,Chicago_Park_Facility_1781,1863,Ward 17,1916,Marquette Park
+-87.66446707896885,41.7353641474235,"1637 W 87th St Chicago, IL 60620",Marshfield Park - Spray Feature,Chicago_Park_Facility_1801,1878,Ward 21,2352,Marshfield Park
+-87.72860634779823,41.88377683423072,"4100 W West End Ave Chicago, IL 60624",Mason Park - Spray Feature,Chicago_Park_Facility_1804,1896,Ward 28,2441,Mason Park
+-87.70274236344719,41.9896302065641,"5835 N Lincoln Ave Chicago, IL 60659",Mather Park - Spray Feature,Chicago_Park_Facility_16694,1906,Ward 40,2047,Mather Park
+-87.74229323602489,41.96305050397522,"4550 W Sunnyside Ave Chicago, IL 60630",Mayfair Park - Spray Feature,Chicago_Park_Facility_1829,1899,Ward 39,1959,Mayfair Park
+-87.64873393721417,41.84128441219594,"2901 S Poplar Ave Chicago, IL 60608",McGuane Park - Pool (Indoor),Chicago_Park_Facility_1835,1881,Ward 11,1908,McGuane Park
+-87.64895345259977,41.84143872263264,"2901 S Poplar Ave Chicago, IL 60608",McGuane Park - Spray Feature,Chicago_Park_Facility_1840,1881,Ward 11,1908,McGuane Park
+-87.70245019467146,41.69800145018454,"10714 S Sawyer Ave Chicago, IL 60655",McKiernan Park - Spray Feature,Chicago_Park_Facility_1854,1885,Ward 19,2365,McKiernan Park
+-87.68297177867679,41.8234301220659,"2210 W Pershing Rd Chicago, IL 60609",McKinley Park - Pool (Outdoor),Chicago_Park_Facility_1868,1871,Ward 12,1928,McKinley Park
+-87.68243150142493,41.823328412181176,"2210 W Pershing Rd Chicago, IL 60609",McKinley Park - Water Playground,Chicago_Park_Facility_1870,1871,Ward 12,1928,McKinley Park
+-87.57253477664919,41.71953447449186,"2131 E 96th St Chicago, IL 60617",Merrill Park - Spray Feature,Chicago_Park_Facility_1891,1883,Ward 7,2417,Merrill Park
+-87.78435128509761,41.952587410573095,"6343 W Irving Park Rd Chicago, IL 60634",Merrimac Park - Spray Feature,Chicago_Park_Facility_1897,1877,Ward 38,2060,Merrimac Park
+-87.62676108700512,41.81878568448262,"4196 S State St Chicago, IL 60609",Metcalfe Park - Spray Feature,Chicago_Park_Facility_1903,1861,Ward 3,2201,Metcalfe Park
+-87.61593947214394,41.764905687565495,"7140 S Dr Martin Luther King J Chicago, IL 60619",Meyering Park - Water Playground,Chicago_Park_Facility_1909,1902,Ward 6,2355,Meyering Park
+-87.67755924049443,41.79710690117039,"5311 S Hamilton Ave Chicago, IL 60609",Micek Park - Spray Feature,Chicago_Park_Facility_1914,1901,Ward 16,2335,Micek Park
+-87.75278852846351,41.87830079875716,"5085 W Adams St Chicago, IL 60644",Moore Park - Spray Feature,Chicago_Park_Facility_1946,1896,Ward 28,2356,Moore Park
+-87.65435518415372,41.790345626549225,"5727 S Racine Ave Chicago, IL 60621",Moran Park - Spray Feature,Chicago_Park_Facility_1950,1901,Ward 16,2357,Moran Park
+-87.71372096489544,41.690692960399446,"3724 W 111th St Chicago, IL 60655",Mount Greenwood Park - Pool (Outdoor),Chicago_Park_Facility_1964,1885,Ward 19,2057,Mount Greenwood Park
+-87.71242177614575,41.690869341541756,"3724 W 111th St Chicago, IL 60655",Mount Greenwood Park - Spray Feature,Chicago_Park_Facility_1966,1885,Ward 19,2057,Mount Greenwood Park
+-87.666578620461,41.83629214761007,"3150 S Robinson Ct Chicago, IL 60608",Mulberry Park - Spray Feature,Chicago_Park_Facility_1982,1871,Ward 12,2499,Mulberry Park
+-87.68702604031243,41.702424336170836,"2617 W 105th St Chicago, IL 60655",Munroe Park - Spray Feature,Chicago_Park_Facility_1988,1885,Ward 19,2358,Munroe Park
+-87.66826161816145,41.761057509182436,"1743 W 73rd St Chicago, IL 60636",Murray Park - Spray Feature,Chicago_Park_Facility_1995,1863,Ward 17,2359,Murray Park
+-87.57995791346079,41.76587671772074,"1833 E 71st St Chicago, IL 60649",Nash Community Center Park - Pool (Indoor),Chicago_Park_Facility_1999,1883,Ward 7,2223,Nash Community Center Park
+-87.72344326984451,41.861099656296396,"1447-1453 S Harding Ave Chicago, IL 60623",Ninebark Park - Spray Feature,Chicago_Park_Facility_2009,1864,Ward 24,2130,Ninebark Park
+-87.657344023655,42.0040350625831,"1040 W North Shore Ave Chicago, IL 60626",North Shore Beach Park - Beach,Chicago_Park_Facility_5825,1876,Ward 49,2481,North Shore Beach Park
+-87.60761246783859,41.8636697678777,"1400 S Lynn White Dr Chicago, IL 60605",Northerly Island Park - Beach,Chicago_Park_Facility_2018,1882,Ward 4,1934,Northerly Island Park
+-87.79337796647431,41.987019743788146,"5801 N Natoma Ave Chicago, IL 60631",Norwood Park - Pool (Outdoor),Chicago_Park_Facility_2026,1865,Ward 41,1989,Norwood Park
+-87.79317524732056,41.986945381965,"5801 N Natoma Ave Chicago, IL 60631",Norwood Park - Water Slide,Chicago_Park_Facility_2035,1865,Ward 41,1989,Norwood Park
+-87.66855818999399,41.742212341042695,"8335 S Honore St Chicago, IL 60620",O'Hallaren Park - Spray Feature,Chicago_Park_Facility_2080,1878,Ward 21,2320,O'Hallaren Park
+-87.6492215963316,41.719564142325844,"965 W 95th St Chicago, IL 60643",Oakdale Park - Pool (Outdoor),Chicago_Park_Facility_2041,1878,Ward 21,2041,Oakdale Park
+-87.64823985720649,41.71967742256764,"965 W 95th St Chicago, IL 60643",Oakdale Park - Spray Feature,Chicago_Park_Facility_2043,1878,Ward 21,2041,Oakdale Park
+-87.65492269573677,41.77504258969253,"6500 S Racine Ave Chicago, IL 60636",Ogden Park - Pool (Outdoor),Chicago_Park_Facility_2061,1863,Ward 17,1914,Ogden Park
+-87.65469004552556,41.77388024544398,"6500 S Racine Ave Chicago, IL 60636",Ogden Park - Spray Feature,Chicago_Park_Facility_2072,1863,Ward 17,1914,Ogden Park
+-87.74416716578021,41.89157390604767,"4712 W Ohio St Chicago, IL 60644",Ohio Park - Spray Feature,Chicago_Park_Facility_2086,1896,Ward 28,2427,Ohio Park
+-87.81452588253318,41.99917988356947,"6566 N Avondale Ave Chicago, IL 60631",Olympia Park - Spray Feature,Chicago_Park_Facility_2095,1865,Ward 41,1946,Olympia Park
+-87.81484667219145,41.97812917998511,"5430 N Olcott Ave Chicago, IL 60656",Oriole Park - Spray Feature,Chicago_Park_Facility_2109,1865,Ward 41,1945,Oriole Park
+-87.57432292488762,41.73441199990166,"2100 E 88th St Chicago, IL 60617",Owens Park - Spray Feature,Chicago_Park_Facility_2127,1907,Ward 8,2043,Owens Park
+-87.6626595181342,41.80513046242655,"4856 S Laflin St Chicago, IL 60609",Packingtown Park - Spray Feature,Chicago_Park_Facility_2149,1884,Ward 20,2168,Packingtown Park
+-87.6157818347355,41.6922383465095,"200 E 111th St Chicago, IL 60628",Palmer Park - Pool (Outdoor),Chicago_Park_Facility_2160,1870,Ward 9,1919,Palmer Park
+-87.6173708791392,41.69223194255258,"200 E 111th St Chicago, IL 60628",Palmer Park - Spray Feature,Chicago_Park_Facility_2163,1870,Ward 9,1919,Palmer Park
+-87.61546451977912,41.69244930300986,"200 E 111th St Chicago, IL 60628",Palmer Park - Water Slide,Chicago_Park_Facility_2175,1870,Ward 9,1919,Palmer Park
+-87.70766160742286,41.87484750781658,"3200 W Congress Pkwy Chicago, IL 60624",Park 422 - Spray Feature,Chicago_Park_Facility_2178,1896,Ward 28,2180,Park 422
+-87.71257463316785,41.86393895659792,"1300 S St Louis Ave Chicago, IL 60623",Park 534 - Spray Feature,Chicago_Park_Facility_2198,1864,Ward 24,2268,Park 534
+-87.61720053034921,41.885902187228176,"450 E. Benton Place Chicago, IL 60611",Park 546 - Spray Feature,Chicago_Park_Facility_17343,1879,Ward 42,2279,Park 546
+-87.69028364983953,41.877770909428804,"2540 W Jackson Blvd Chicago, IL 60612",Park 574 - Spray Feature,Chicago_Park_Facility_11924,1905,Ward 27,2305,Park 574
+-87.6745762472558,41.883918516849114,"1919 W Maypole Ave Chicago, IL 60612",Park 578 - Spray Feature,Chicago_Park_Facility_0,1905,Ward 27,2308,Park 578
+-87.74462740013425,41.93911663923446,"4701 W Belmont Ave Chicago, IL 60641",Parsons Park - Spray Feature,Chicago_Park_Facility_2207,1895,Ward 30,2237,Parsons Park
+-87.73201603122345,41.787895706197375,"5825 S Kostner Ave Chicago, IL 60629",Pasteur Park - Spray Feature,Chicago_Park_Facility_2220,1869,Ward 13,2053,Pasteur Park
+-87.62793982314716,41.77467307313361,"100 W 66th St Chicago, IL 60621",Periwinkle Park - Spray Feature,Chicago_Park_Facility_18313,1884,Ward 20,2194,Periwinkle Park
+-87.73077470733507,41.83611412271447,"4200 W 31st St Chicago, IL 60623",Piotrowski Park - Pool (Outdoor),Chicago_Park_Facility_2252,1880,Ward 22,2036,Piotrowski Park
+-87.73047076843385,41.83611759320515,"4200 W 31st St Chicago, IL 60623",Piotrowski Park - Water Playground,Chicago_Park_Facility_4101,1880,Ward 22,2036,Piotrowski Park
+-87.797636651497,41.998255341734165,"6813 W Imlay St Chicago, IL 60631",Pleasant Point Park - Spray Feature,Chicago_Park_Facility_2265,1865,Ward 41,1988,Pleasant Point Park
+-87.6201983335043,41.820666584259094,"4046 S Prairie Ave Chicago, IL 60653",Poplar Park - Spray Feature,Chicago_Park_Facility_2267,1861,Ward 3,2106,Poplar Park
+-87.76612732938179,41.95607718195067,"4100 N Long Ave Chicago, IL 60641",Portage Park - Pool (Indoor),Chicago_Park_Facility_2272,1877,Ward 38,1992,Portage Park
+-87.76307669430861,41.95548916234231,"4100 N Long Ave Chicago, IL 60641",Portage Park - Pool (Outdoor),Chicago_Park_Facility_2276,1877,Ward 38,1992,Portage Park
+-87.7632112337761,41.955924877738724,"4100 N Long Ave Chicago, IL 60641",Portage Park - Water Playground,Chicago_Park_Facility_2286,1877,Ward 38,1992,Portage Park
+-87.76295736745111,41.955055085309795,"4100 N Long Ave Chicago, IL 60641",Portage Park - Water Slide,Chicago_Park_Facility_2287,1877,Ward 38,1992,Portage Park
+-87.67857954872034,42.01494665349365,"7340 N Rogers Ave Chicago, IL 60626",Pottawattomie Park - Spray Feature,Chicago_Park_Facility_2296,1876,Ward 49,1999,Pottawattomie Park
+-87.60312958394151,41.78002051480596,"6310 S Drexel Ave Chicago, IL 60637",Prairie Wolf Park - Spray Feature,Chicago_Park_Facility_2301,1884,Ward 20,2111,Prairie Wolf Park
+-87.6574860511917,42.005891766861986,"1050 W Pratt Blvd Chicago, IL 60626",Prinz Beach Park - Beach,Chicago_Park_Facility_5824,1876,Ward 49,2482,Prinz Beach Park
+-87.66361852666618,41.90544437576482,"1419 W Blackhawk St Chicago, IL 60622",Pulaski Park - Pool (Outdoor),Chicago_Park_Facility_2306,1894,Ward 2,2029,Pulaski Park
+-87.66295618955972,41.90538623861167,"1419 W Blackhawk St Chicago, IL 60622",Pulaski Park - Spray Feature,Chicago_Park_Facility_2308,1894,Ward 2,2029,Pulaski Park
+-87.66328929812937,41.9056640686266,"1419 W Blackhawk St Chicago, IL 60622",Pulaski Park - Water Playground,Chicago_Park_Facility_2309,1894,Ward 2,2029,Pulaski Park
+-87.54985244803841,41.75879930581388,"2873 E 75th St Chicago, IL 60649",Rainbow Beach Park - Beach,Chicago_Park_Facility_2315,1883,Ward 7,2311,Rainbow Beach Park
+-87.66773948373941,41.718766381759146,"9625 S Longwood Dr Chicago, IL 60643",Ridge Park - Pool (Indoor),Chicago_Park_Facility_2362,1885,Ward 19,2002,Ridge Park
+-87.7801480679464,41.92407074641404,"6100 W Fullerton Ave Chicago, IL 60639",Riis Park - Pool (Outdoor),Chicago_Park_Facility_2374,1895,Ward 30,1978,Riis Park
+-87.77932668853019,41.92468390473298,"6100 W Fullerton Ave Chicago, IL 60639",Riis Park - Water Playground,Chicago_Park_Facility_2390,1895,Ward 30,1978,Riis Park
+-87.70259509015065,41.973962046289,"5100 N Francisco Ave Chicago, IL 60625",River Park - Pool (Outdoor),Chicago_Park_Facility_2397,NA,NA,2008,River Park
+-87.70281053512832,41.97414794811614,"5100 N Francisco Ave Chicago, IL 60625",River Park - Water Playground,Chicago_Park_Facility_2408,NA,NA,2008,River Park
+-87.75909146261495,41.97211333627493,"5230 W Argyle St Chicago, IL 60630",Roberts Square Park - Spray Feature,Chicago_Park_Facility_2410,1886,Ward 45,1964,Roberts Square Park
+-87.63452422301904,41.724650598341,"9247 S Eggleston Ave Chicago, IL 60620",Robichaux Park - Spray Feature,Chicago_Park_Facility_2416,1878,Ward 21,2103,Robichaux Park
+-87.66471496246355,42.02148478499769,"7705 N Eastlake Terrace Chicago, IL 60626",Rogers Beach Park - Beach,Chicago_Park_Facility_2442,1876,Ward 49,2483,Rogers Beach Park
+-87.78549407376755,41.98899580982623,"6312 W Rosedale Ave Chicago, IL 60646",Rosedale Park - Spray Feature,Chicago_Park_Facility_5827,1886,Ward 45,1961,Rosedale Park
+-87.58028242437909,41.75859903353802,"2000 E 75th St Chicago, IL 60649",Rosenblum Park - Spray Feature,Chicago_Park_Facility_17340,1907,Ward 8,2037,Rosenblum Park
+-87.53782144205243,41.68493841666707,"11546 S Avenue L Chicago, IL 60617",Rowan Park - Spray Feature,Chicago_Park_Facility_2470,1891,Ward 10,2054,Rowan Park
+-87.54993659725616,41.74406590473888,"3045 E 83rd St Chicago, IL 60617",Russell Square Park - Pool (Outdoor),Chicago_Park_Facility_2480,1891,Ward 10,1912,Russell Square Park
+-87.79781593325237,41.920822877383685,"6871 W Belden Ave Chicago, IL 60635",Rutherford Sayre Park - Spray Feature,Chicago_Park_Facility_2495,NA,NA,1982,Rutherford Sayre Park
+-87.71346299257371,41.88758498911896,"347 N St Louis Ave Chicago, IL 60624",Saint Louis Park - Spray Feature,Chicago_Park_Facility_2506,1896,Ward 28,2433,Saint Louis Park
+-87.67005298656927,41.999259411473155,"1552 W Schreiber Ave Chicago, IL 60626",Schreiber Park - Spray Feature,Chicago_Park_Facility_4114,1906,Ward 40,2366,Schreiber Park
+-87.71172034379067,41.792082562249696,"5656 S St Louis Ave Chicago, IL 60629",Senka Park - Spray Feature,Chicago_Park_Facility_2534,1890,Ward 14,2101,Senka Park
+-87.66838680127721,41.99050712435771,"5887 N Ridge Ave Chicago, IL 60660",Senn Park - Spray Feature,Chicago_Park_Facility_2542,1872,Ward 48,2033,Senn Park
+-87.6391645863138,41.90140454713631,"375 W Elm St Chicago, IL 60610",Seward Park - Spray Feature,Chicago_Park_Facility_2552,1905,Ward 27,1971,Seward Park
+-87.79960463630624,41.94330448325844,"6935 W Addison Chicago, IL 60634",Shabbona Park - Pool (Indoor),Chicago_Park_Facility_2557,1877,Ward 38,1993,Shabbona Park
+-87.79918864069319,41.94401740912261,"6935 W Addison Chicago, IL 60634",Shabbona Park - Spray Feature,Chicago_Park_Facility_2563,1877,Ward 38,1993,Shabbona Park
+-87.71676227255465,41.85008537505628,"3660 W 23rd St Chicago, IL 60623",Shedd Park - Spray Feature,Chicago_Park_Facility_2573,1880,Ward 22,2024,Shedd Park
+-87.6549631888349,41.87048464766746,"910 S Aberdeen St Chicago, IL 60607",Sheridan Park - Pool (Indoor),Chicago_Park_Facility_2580,1873,Ward 25,2017,Sheridan Park
+-87.65743747202572,41.79918306635347,"1307 W 52nd St Chicago, IL 60609",Sherman Park - Pool (Outdoor),Chicago_Park_Facility_2601,1884,Ward 20,1913,Sherman Park
+-87.65895626820569,41.79914884489536,"1307 W 52nd St Chicago, IL 60609",Sherman Park - Spray Feature,Chicago_Park_Facility_2605,1884,Ward 20,1913,Sherman Park
+-87.63312115743146,41.790568185211,"5705 S Shields Ave Chicago, IL 60621",Sherwood Park - Water Playground,Chicago_Park_Facility_2619,1884,Ward 20,2322,Sherwood Park
+-87.71553040096593,41.911637188603414,"1640 N Drake Ave Chicago, IL 60647",Simons Park - Spray Feature,Chicago_Park_Facility_2624,1867,Ward 26,1979,Simons Park
+-87.66012771384385,41.879617962253526,"1331 W  Monroe St Chicago, IL 60606",Skinner Park - Spray Feature,Chicago_Park_Facility_2634,1905,Ward 27,2023,Skinner Park
+-87.68968138235917,41.89194291459567,"2526 W Grand Ave Chicago, IL 60612",Smith (Joseph Higgins) Park - Pool (Outdoor),Chicago_Park_Facility_2644,1867,Ward 26,2323,Smith (Joseph Higgins) Park
+-87.68943776058009,41.893062518535245,"2526 W Grand Ave Chicago, IL 60612",Smith (Joseph Higgins) Park - Spray Feature,Chicago_Park_Facility_2649,1867,Ward 26,2323,Smith (Joseph Higgins) Park
+-87.67417812626539,41.893952311024975,"1855 W Huron St Chicago, IL 60622",Snowberry Park - Spray Feature,Chicago_Park_Facility_2657,1893,Ward 1,2154,Snowberry Park
+-87.5616648945248,41.76854724903431,"7059 S South Shore Dr Chicago, IL 60649",South Shore Community Center Park - Beach,Chicago_Park_Facility_2660,1866,Ward 5,2187,South Shore Community Center Park
+-87.64428727739514,41.905556563465275,"1824 S Wood St Chicago, IL 60608",Harrison Park - Pool (Indoor) 2,Chicago_Park_Facility_11894,1873,Ward 25,2025,Harrison Park
+-87.64527015045012,41.90598074454355,"640 W Scott St Chicago, IL 60610",Stanton Park - Spray Feature,Chicago_Park_Facility_2676,1905,Ward 27,1972,Stanton Park
+-87.68443474426893,41.88371823036612,"2306 W Maypole Ave Chicago, IL 60612",Starr Park - Spray Feature,Chicago_Park_Facility_0,1905,Ward 27,2234,Starr Park
+-87.7979631331603,41.79894604537858,"7000 W 51st Pl Chicago, IL 60638",Stars & Stripes Park - Spray Feature,Chicago_Park_Facility_2682,1862,Ward 23,2140,Stars & Stripes Park
+-87.73259277552133,41.79475047849081,"4347 W 54th St Chicago, IL 60632",Strohacker Park - Spray Feature,Chicago_Park_Facility_2697,1862,Ward 23,2324,Strohacker Park
+-87.64347842750179,41.818769512618054,"647 W Root St Chicago, IL 60609",Taylor- Lauridsen Park - Spray Feature,Chicago_Park_Facility_4128,1881,Ward 11,2332,Taylor- Lauridsen Park
+-87.62829236887701,41.80772227199536,"100 W 47th St Chicago, IL 60609",Taylor Park - Pool (Outdoor),Chicago_Park_Facility_2716,1861,Ward 3,2074,Taylor Park
+-87.65846997473798,41.85754655859819,"1811 S Throop St Chicago, IL 60608",Throop Park - Spray Feature,Chicago_Park_Facility_2730,1873,Ward 25,2438,Throop Park
+-87.734950255186,41.8855830629627,"305 N Kostner Chicago, IL 60624",Tilton Park - Spray Feature,Chicago_Park_Facility_2737,1896,Ward 28,2369,Tilton Park
+-87.6327359016002,41.858926328460306,"300 W 18th St Chicago, IL 60616",Ping Tom Memorial Park - Pool (Indoor),Chicago_Park_Facility_8694,1873,Ward 25,2222,Ping Tom Memorial Park
+-87.67950121413746,41.87900350459733,"2106 W Adams St Chicago, IL 60612",Touhy- Herbert Park - Spray Feature,Chicago_Park_Facility_2754,1905,Ward 27,2370,Touhy- Herbert Park
+-87.56448153624244,41.70504703485467,"2400 E 105th St Chicago, IL 60617",Trumbull Park - Pool (Outdoor),Chicago_Park_Facility_2766,1883,Ward 7,1922,Trumbull Park
+-87.56376351454843,41.706081647858326,"2400 E 105th St Chicago, IL 60617",Trumbull Park - Spray Feature,Chicago_Park_Facility_2769,1883,Ward 7,1922,Trumbull Park
+-87.610396068587,41.73013621654022,"501 E 90th Pl Chicago, IL 60619",Tuley Park - Pool (Outdoor),Chicago_Park_Facility_2782,1870,Ward 9,1924,Tuley Park
+-87.61159587023494,41.729554771968964,"501 E 90th Pl Chicago, IL 60619",Tuley Park - Spray Feature,Chicago_Park_Facility_2784,1870,Ward 9,1924,Tuley Park
+-87.66606617267014,41.88491366468702,"1501 W Randolph St Chicago, IL 60607",Union Park - Pool (Outdoor),Chicago_Park_Facility_2807,1905,Ward 27,2022,Union Park
+-87.66518679407098,41.88485300339034,"1501 W Randolph St Chicago, IL 60607",Union Park - Spray Feature,Chicago_Park_Facility_2809,1905,Ward 27,2022,Union Park
+-87.71270365174219,41.92982531172124,"2636 N Kimball Ave Chicago, IL 60647",Unity Park - Spray Feature,Chicago_Park_Facility_2814,1903,Ward 35,2092,Unity Park
+-87.55600734232374,41.71765657246832,"2820 E 98th St Chicago, IL 60617",Veterans' Memorial Park - Spray Feature,Chicago_Park_Facility_2832,1891,Ward 10,2372,Veterans' Memorial Park
+-87.72909062721895,41.86927204213672,"4120 W Taylor St Chicago, IL 60624",Violet Park - Spray Feature,Chicago_Park_Facility_2834,1864,Ward 24,2133,Violet Park
+-87.74735400117352,41.80267025313262,"5014 W 50th St Chicago, IL 60638",Vittum Park - Spray Feature,Chicago_Park_Facility_2846,1880,Ward 22,2039,Vittum Park
+-87.64963673587619,41.801896063916416,"948 W 51st St Chicago, IL 60609",Wagner Park - Spray Feature,Chicago_Park_Facility_2852,1884,Ward 20,2373,Wagner Park
+-87.63881531156952,41.72672176806519,"607 W 92nd St Chicago, IL 60620",Wallace Park - Spray Feature,Chicago_Park_Facility_2854,1878,Ward 21,2374,Wallace Park
+-87.64229525241443,41.89371455372313,"630 N Kingsbury Ave Chicago, IL 60610",Montgomery Ward Park - Spray Feature,Chicago_Park_Facility_16710,NA,NA,2246,Montgomery Ward Park
+-87.61528485384532,41.793593862503144,"5531 S Dr Martin Luther King J Chicago, IL 60637",Washington (George) Park - Pool (Indoor),Chicago_Park_Facility_4140,NA,NA,1926,Washington (George) Park
+-87.6146401092194,41.7926265226226,"5531 S Dr Martin Luther King J Chicago, IL 60637",Washington (George) Park - Pool (Outdoor),Chicago_Park_Facility_2916,NA,NA,1926,Washington (George) Park
+-87.6153530831486,41.79924570217999,"5531 S Dr Martin Luther King J Chicago, IL 60637",Washington (George) Park - Spray Feature 1,Chicago_Park_Facility_4139,NA,NA,1926,Washington (George) Park
+-87.614831640695,41.79180338122646,"5531 S Dr Martin Luther King J Chicago, IL 60637",Washington (George) Park - Spray Feature 2,Chicago_Park_Facility_17335,NA,NA,1926,Washington (George) Park
+-87.61482312857333,41.79214845246351,"5531 S Dr Martin Luther King J Chicago, IL 60637",Washington (George) Park - Water Slide,Chicago_Park_Facility_2934,NA,NA,1926,Washington (George) Park
+-87.58236572516793,41.800779181505554,"5200 S Hyde Park Blvd Chicago, IL 60615",Washington (Harold) Park - Spray Feature,Chicago_Park_Facility_2936,1866,Ward 5,2232,Washington (Harold) Park
+-87.69247767940293,41.84585693077542,"2521 S Washtenaw Ave Chicago, IL 60608",Washtenaw Park - Spray Feature,Chicago_Park_Facility_2948,1864,Ward 24,2375,Washtenaw Park
+-87.65172407194764,41.93503128049622,"901 W Oakdale Ave Chicago, IL 60657",Weisman Park - Spray Feature,Chicago_Park_Facility_2950,1868,Ward 44,2424,Weisman Park
+-87.68679350437999,41.96273669709101,"2333 W Sunnyside Ave Chicago, IL 60625",Welles Park - Pool (Indoor),Chicago_Park_Facility_2955,1874,Ward 47,1973,Welles Park
+-87.68744299120874,41.96269037295024,"2333 W Sunnyside Ave Chicago, IL 60625",Welles Park - Spray Feature,Chicago_Park_Facility_5828,1874,Ward 47,1973,Welles Park
+-87.7798780138273,41.788889908252536,"5625 S Mobile Ave Chicago, IL 60638",Wentworth Park - Spray Feature,Chicago_Park_Facility_2977,1869,Ward 13,2044,Wentworth Park
+-87.63183319713261,41.82515294636669,"3770 S Wentworth Ave Chicago, IL 60609",Wentworth Gardens Park - Pool (Outdoor),Chicago_Park_Facility_2988,1861,Ward 3,2085,Wentworth Gardens Park
+-87.63097354175375,41.7447255213572,"8223 S Princeton Ave Chicago, IL 60620",West Chatham Park - Spray Feature,Chicago_Park_Facility_2995,1878,Ward 21,2055,West Chatham Park
+-87.63128423067059,41.745104578805055,"8223 S Princeton Ave Chicago, IL 60620",West Chatham Park - Water Playground,Chicago_Park_Facility_16697,1878,Ward 21,2055,West Chatham Park
+-87.72832094852197,41.77319618499173,"4233 W 65th St Chicago, IL 60629",West Lawn Park - Spray Feature,Chicago_Park_Facility_3007,1869,Ward 13,2051,West Lawn Park
+-87.63241377354417,41.6700362804209,"401 W 123rd St Chicago, IL 60628",West Pullman Park - Pool (Indoor),Chicago_Park_Facility_3014,1859,Ward 34,2032,West Pullman Park
+-87.63144087206037,41.670333085301195,"401 W 123rd St Chicago, IL 60628",West Pullman Park - Spray Feature,Chicago_Park_Facility_3018,1859,Ward 34,2032,West Pullman Park
+-87.64975368610712,41.67287879316941,"1120 W 122nd St Chicago, IL 60643",White (Edward) Park - Spray Feature,Chicago_Park_Facility_3034,1859,Ward 34,2146,White (Edward) Park
+-87.67687100991161,41.90828937396202,"1425 N Damen Ave Chicago, IL 60622",Wicker Park - Spray Feature,Chicago_Park_Facility_3049,1893,Ward 1,2026,Wicker Park
+-87.77953224737453,42.007097881302556,"6950 N Hiawatha Ave Chicago, IL 60646",Wildwood Park - Spray Feature,Chicago_Park_Facility_3058,1861,Ward 3,2061,Wildwood Park
+-87.59985156622605,41.820168964728545,"4101 S. Lake Park Ave Chicago, IL 60653",Williams- Davis Park - Spray Feature,Chicago_Park_Facility_16712,1882,Ward 4,2266,Williams- Davis Park
+-87.62951275470866,41.84409498624273,"2820 S State St Chicago, IL 60616",Williams Park - Spray Feature,Chicago_Park_Facility_3067,1894,Ward 2,2065,Williams Park
+-87.62728767973678,41.84273542761428,"2820 S State St Chicago, IL 60616",Williams Park - Water Playground,Chicago_Park_Facility_3069,1894,Ward 2,2065,Williams Park
+-87.75891036048894,41.964408088737514,"4630 N Milwaukee Ave Chicago, IL 60630",Wilson (Frank) Park - Water Playground,Chicago_Park_Facility_3079,1886,Ward 45,1990,Wilson (Frank) Park
+-87.6541782190494,41.83172458747383,"1122 W 34th Pl Chicago, IL 60608",Wilson (John) Park - Spray Feature,Chicago_Park_Facility_3081,1881,Ward 11,2376,Wilson (John) Park
+-87.54283730655095,41.698921825739205,"3325 E 108th St Chicago, IL 60617",Wolfe Park - Spray Feature,Chicago_Park_Facility_3099,1891,Ward 10,2377,Wolfe Park
+-87.58400491696106,41.761979900014246,"7340 S East End Ave Chicago, IL 60649",Woodhull Park - Spray Feature,Chicago_Park_Facility_3104,1907,Ward 8,2378,Woodhull Park
+-87.66613834049346,41.928190802229764,"2534 N Greenview Ave Chicago, IL 60614",Wrightwood Park - Pool (Outdoor),Chicago_Park_Facility_3110,1887,Ward 32,2379,Wrightwood Park
