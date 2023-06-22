@@ -33,8 +33,7 @@ Chicago_Facilities <- Chicago_Facilities_raw %>%
     max_id == 1,
     str_c(Park_Name, "-", facility_n, sep = " "),
     str_c(Park_Name, "-", facility_n, id, sep = " "))) %>%
-  select(-id, -max_id) %>%
-  mutate(Chicago_Fac_id = str_c("Chicago_Park_Facility_", objectid)) %>%
+  mutate(Chicago_Fac_id = str_c("Chicago_Park_Facility_", objectid_1)) %>%
   mutate(the_geom = str_sub(the_geom, 8, nchar(the_geom)-1)) %>%
   separate(the_geom, c("long","lat"), sep=" ") %>%
   select(-x_coord, -y_coord) %>%

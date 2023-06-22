@@ -1,6 +1,6 @@
 ## Divide Data - get only certain types of facilities
 ## Get Playgrounds
-Chicago_Playgrounds <- Chicago_Facilities_joined %>%
+Chicago_Playgrounds <- Chicago_Facilities %>%
   filter(facility_n %in% c("Playground",
                            "Playground Park"))
 
