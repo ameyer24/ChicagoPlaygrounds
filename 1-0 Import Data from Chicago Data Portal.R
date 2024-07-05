@@ -10,8 +10,8 @@ Chicago_Parks_raw <- read.socrata("https://data.cityofchicago.org/resource/ejsh-
 Chicago_Facilities_raw <- read.socrata("https://data.cityofchicago.org/resource/eix4-gf83.csv")
 
 ## Load Chicago Ward Information (this data set is out of date as of 2023-05)
-Chicago_Wards_raw <- read.socrata("https://data.cityofchicago.org/resource/htai-wnw4.csv")
-
+Chicago_Wards2013_raw <- read.socrata("https://data.cityofchicago.org/resource/htai-wnw4.csv")
+Chicago_Wards2023_raw <- read.socrata("https://data.cityofchicago.org/resource/p293-wvbd.csv")
 ################################################################################
 ## Import GIS Data from the City of Chicago Data Portal
 ################################################################################
